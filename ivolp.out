@@ -1,0 +1,1485 @@
+Interval volume polytopes: 
+
+Ivol poly: 0.  Edge dual.  Endpoint: 184 (2,1,1)  Direction: 0  Reverse orient.
+Ivol poly: 1.  Edge dual.  Endpoint: 187 (5,1,1)  Direction: 0
+Ivol poly: 2.  Edge dual.  Endpoint: 214 (6,3,1)  Direction: 0  Reverse orient.
+Ivol poly: 3.  Edge dual.  Endpoint: 215 (7,3,1)  Direction: 0
+Ivol poly: 4.  Edge dual.  Endpoint: 264 (4,7,1)  Direction: 0  Reverse orient.
+Ivol poly: 5.  Edge dual.  Endpoint: 265 (5,7,1)  Direction: 0
+Ivol poly: 6.  Edge dual.  Endpoint: 289 (3,9,1)  Direction: 0
+Ivol poly: 7.  Edge dual.  Endpoint: 294 (8,9,1)  Direction: 0  Reverse orient.
+Ivol poly: 8.  Edge dual.  Endpoint: 307 (8,10,1)  Direction: 0  Reverse orient.
+Ivol poly: 9.  Edge dual.  Endpoint: 316 (4,11,1)  Direction: 0  Reverse orient.
+Ivol poly: 10.  Edge dual.  Endpoint: 353 (2,1,2)  Direction: 0  Reverse orient.
+Ivol poly: 11.  Edge dual.  Endpoint: 354 (3,1,2)  Direction: 0
+Ivol poly: 12.  Edge dual.  Endpoint: 366 (2,2,2)  Direction: 0  Reverse orient.
+Ivol poly: 13.  Edge dual.  Endpoint: 367 (3,2,2)  Direction: 0
+Ivol poly: 14.  Edge dual.  Endpoint: 420 (4,6,2)  Direction: 0  Reverse orient.
+Ivol poly: 15.  Edge dual.  Endpoint: 421 (5,6,2)  Direction: 0
+Ivol poly: 16.  Edge dual.  Endpoint: 433 (4,7,2)  Direction: 0  Reverse orient.
+Ivol poly: 17.  Edge dual.  Endpoint: 434 (5,7,2)  Direction: 0
+Ivol poly: 18.  Edge dual.  Endpoint: 458 (3,9,2)  Direction: 0
+Ivol poly: 19.  Edge dual.  Endpoint: 463 (8,9,2)  Direction: 0  Reverse orient.
+Ivol poly: 20.  Edge dual.  Endpoint: 465 (10,9,2)  Direction: 0
+Ivol poly: 21.  Edge dual.  Endpoint: 485 (4,11,2)  Direction: 0  Reverse orient.
+Ivol poly: 22.  Edge dual.  Endpoint: 486 (5,11,2)  Direction: 0
+Ivol poly: 23.  Edge dual.  Endpoint: 522 (2,1,3)  Direction: 0  Reverse orient.
+Ivol poly: 24.  Edge dual.  Endpoint: 523 (3,1,3)  Direction: 0
+Ivol poly: 25.  Edge dual.  Endpoint: 535 (2,2,3)  Direction: 0  Reverse orient.
+Ivol poly: 26.  Edge dual.  Endpoint: 536 (3,2,3)  Direction: 0
+Ivol poly: 27.  Edge dual.  Endpoint: 548 (2,3,3)  Direction: 0  Reverse orient.
+Ivol poly: 28.  Edge dual.  Endpoint: 549 (3,3,3)  Direction: 0
+Ivol poly: 29.  Edge dual.  Endpoint: 556 (10,3,3)  Direction: 0  Reverse orient.
+Ivol poly: 30.  Edge dual.  Endpoint: 569 (10,4,3)  Direction: 0  Reverse orient.
+Ivol poly: 31.  Edge dual.  Endpoint: 573 (1,5,3)  Direction: 0
+Ivol poly: 32.  Edge dual.  Endpoint: 576 (4,5,3)  Direction: 0  Reverse orient.
+Ivol poly: 33.  Edge dual.  Endpoint: 577 (5,5,3)  Direction: 0
+Ivol poly: 34.  Edge dual.  Endpoint: 582 (10,5,3)  Direction: 0  Reverse orient.
+Ivol poly: 35.  Edge dual.  Endpoint: 589 (4,6,3)  Direction: 0  Reverse orient.
+Ivol poly: 36.  Edge dual.  Endpoint: 591 (6,6,3)  Direction: 0
+Ivol poly: 37.  Edge dual.  Endpoint: 595 (10,6,3)  Direction: 0  Reverse orient.
+Ivol poly: 38.  Edge dual.  Endpoint: 600 (2,7,3)  Direction: 0  Reverse orient.
+Ivol poly: 39.  Edge dual.  Endpoint: 605 (7,7,3)  Direction: 0
+Ivol poly: 40.  Edge dual.  Endpoint: 608 (10,7,3)  Direction: 0  Reverse orient.
+Ivol poly: 41.  Edge dual.  Endpoint: 613 (2,8,3)  Direction: 0  Reverse orient.
+Ivol poly: 42.  Edge dual.  Endpoint: 617 (6,8,3)  Direction: 0
+Ivol poly: 43.  Edge dual.  Endpoint: 629 (5,9,3)  Direction: 0
+Ivol poly: 44.  Edge dual.  Endpoint: 632 (8,9,3)  Direction: 0  Reverse orient.
+Ivol poly: 45.  Edge dual.  Endpoint: 633 (9,9,3)  Direction: 0
+Ivol poly: 46.  Edge dual.  Endpoint: 641 (4,10,3)  Direction: 0  Reverse orient.
+Ivol poly: 47.  Edge dual.  Endpoint: 642 (5,10,3)  Direction: 0
+Ivol poly: 48.  Edge dual.  Endpoint: 654 (4,11,3)  Direction: 0  Reverse orient.
+Ivol poly: 49.  Edge dual.  Endpoint: 655 (5,11,3)  Direction: 0
+Ivol poly: 50.  Edge dual.  Endpoint: 691 (2,1,4)  Direction: 0  Reverse orient.
+Ivol poly: 51.  Edge dual.  Endpoint: 692 (3,1,4)  Direction: 0
+Ivol poly: 52.  Edge dual.  Endpoint: 704 (2,2,4)  Direction: 0  Reverse orient.
+Ivol poly: 53.  Edge dual.  Endpoint: 705 (3,2,4)  Direction: 0
+Ivol poly: 54.  Edge dual.  Endpoint: 751 (10,5,4)  Direction: 0  Reverse orient.
+Ivol poly: 55.  Edge dual.  Endpoint: 796 (3,9,4)  Direction: 0  Reverse orient.
+Ivol poly: 56.  Edge dual.  Endpoint: 799 (6,9,4)  Direction: 0
+Ivol poly: 57.  Edge dual.  Endpoint: 800 (7,9,4)  Direction: 0  Reverse orient.
+Ivol poly: 58.  Edge dual.  Endpoint: 802 (9,9,4)  Direction: 0
+Ivol poly: 59.  Edge dual.  Endpoint: 860 (2,1,5)  Direction: 0  Reverse orient.
+Ivol poly: 60.  Edge dual.  Endpoint: 861 (3,1,5)  Direction: 0
+Ivol poly: 61.  Edge dual.  Endpoint: 864 (6,1,5)  Direction: 0  Reverse orient.
+Ivol poly: 62.  Edge dual.  Endpoint: 867 (9,1,5)  Direction: 0
+Ivol poly: 63.  Edge dual.  Endpoint: 912 (2,5,5)  Direction: 0  Reverse orient.
+Ivol poly: 64.  Edge dual.  Endpoint: 913 (3,5,5)  Direction: 0
+Ivol poly: 65.  Edge dual.  Endpoint: 918 (8,5,5)  Direction: 0  Reverse orient.
+Ivol poly: 66.  Edge dual.  Endpoint: 937 (1,7,5)  Direction: 0
+Ivol poly: 67.  Edge dual.  Endpoint: 966 (4,9,5)  Direction: 0  Reverse orient.
+Ivol poly: 68.  Edge dual.  Endpoint: 971 (9,9,5)  Direction: 0
+Ivol poly: 69.  Edge dual.  Endpoint: 982 (7,10,5)  Direction: 0  Reverse orient.
+Ivol poly: 70.  Edge dual.  Endpoint: 984 (9,10,5)  Direction: 0
+Ivol poly: 71.  Edge dual.  Endpoint: 990 (2,11,5)  Direction: 0  Reverse orient.
+Ivol poly: 72.  Edge dual.  Endpoint: 991 (3,11,5)  Direction: 0
+Ivol poly: 73.  Edge dual.  Endpoint: 996 (8,11,5)  Direction: 0  Reverse orient.
+Ivol poly: 74.  Edge dual.  Endpoint: 1087 (8,5,6)  Direction: 0  Reverse orient.
+Ivol poly: 75.  Edge dual.  Endpoint: 1088 (9,5,6)  Direction: 0
+Ivol poly: 76.  Edge dual.  Endpoint: 1135 (4,9,6)  Direction: 0  Reverse orient.
+Ivol poly: 77.  Edge dual.  Endpoint: 1137 (6,9,6)  Direction: 0
+Ivol poly: 78.  Edge dual.  Endpoint: 1159 (2,11,6)  Direction: 0  Reverse orient.
+Ivol poly: 79.  Edge dual.  Endpoint: 1160 (3,11,6)  Direction: 0
+Ivol poly: 80.  Edge dual.  Endpoint: 1165 (8,11,6)  Direction: 0  Reverse orient.
+Ivol poly: 81.  Edge dual.  Endpoint: 1166 (9,11,6)  Direction: 0
+Ivol poly: 82.  Edge dual.  Endpoint: 1197 (1,1,7)  Direction: 0
+Ivol poly: 83.  Edge dual.  Endpoint: 1249 (1,5,7)  Direction: 0
+Ivol poly: 84.  Edge dual.  Endpoint: 1252 (4,5,7)  Direction: 0  Reverse orient.
+Ivol poly: 85.  Edge dual.  Endpoint: 1253 (5,5,7)  Direction: 0
+Ivol poly: 86.  Edge dual.  Endpoint: 1256 (8,5,7)  Direction: 0  Reverse orient.
+Ivol poly: 87.  Edge dual.  Endpoint: 1257 (9,5,7)  Direction: 0
+Ivol poly: 88.  Edge dual.  Endpoint: 1284 (10,7,7)  Direction: 0  Reverse orient.
+Ivol poly: 89.  Edge dual.  Endpoint: 1304 (4,9,7)  Direction: 0  Reverse orient.
+Ivol poly: 90.  Edge dual.  Endpoint: 1305 (5,9,7)  Direction: 0
+Ivol poly: 91.  Edge dual.  Endpoint: 1316 (3,10,7)  Direction: 0  Reverse orient.
+Ivol poly: 92.  Edge dual.  Endpoint: 1318 (5,10,7)  Direction: 0
+Ivol poly: 93.  Edge dual.  Endpoint: 1328 (2,11,7)  Direction: 0  Reverse orient.
+Ivol poly: 94.  Edge dual.  Endpoint: 1331 (5,11,7)  Direction: 0
+Ivol poly: 95.  Edge dual.  Endpoint: 1334 (8,11,7)  Direction: 0  Reverse orient.
+Ivol poly: 96.  Edge dual.  Endpoint: 1335 (9,11,7)  Direction: 0
+Ivol poly: 97.  Edge dual.  Endpoint: 1366 (1,1,8)  Direction: 0
+Ivol poly: 98.  Edge dual.  Endpoint: 1418 (1,5,8)  Direction: 0
+Ivol poly: 99.  Edge dual.  Endpoint: 1421 (4,5,8)  Direction: 0  Reverse orient.
+Ivol poly: 100.  Edge dual.  Endpoint: 1422 (5,5,8)  Direction: 0
+Ivol poly: 101.  Edge dual.  Endpoint: 1498 (3,11,8)  Direction: 0  Reverse orient.
+Ivol poly: 102.  Edge dual.  Endpoint: 1501 (6,11,8)  Direction: 0
+Ivol poly: 103.  Edge dual.  Endpoint: 1502 (7,11,8)  Direction: 0  Reverse orient.
+Ivol poly: 104.  Edge dual.  Endpoint: 1504 (9,11,8)  Direction: 0
+Ivol poly: 105.  Edge dual.  Endpoint: 1535 (1,1,9)  Direction: 0
+Ivol poly: 106.  Edge dual.  Endpoint: 1566 (6,3,9)  Direction: 0  Reverse orient.
+Ivol poly: 107.  Edge dual.  Endpoint: 1567 (7,3,9)  Direction: 0
+Ivol poly: 108.  Edge dual.  Endpoint: 1579 (6,4,9)  Direction: 0  Reverse orient.
+Ivol poly: 109.  Edge dual.  Endpoint: 1580 (7,4,9)  Direction: 0
+Ivol poly: 110.  Edge dual.  Endpoint: 1587 (1,5,9)  Direction: 0
+Ivol poly: 111.  Edge dual.  Endpoint: 1590 (4,5,9)  Direction: 0  Reverse orient.
+Ivol poly: 112.  Edge dual.  Endpoint: 1593 (7,5,9)  Direction: 0
+Ivol poly: 113.  Edge dual.  Endpoint: 1596 (10,5,9)  Direction: 0  Reverse orient.
+Ivol poly: 114.  Edge dual.  Endpoint: 1614 (2,7,9)  Direction: 0  Reverse orient.
+Ivol poly: 115.  Edge dual.  Endpoint: 1615 (3,7,9)  Direction: 0
+Ivol poly: 116.  Edge dual.  Endpoint: 1668 (4,11,9)  Direction: 0  Reverse orient.
+Ivol poly: 117.  Edge dual.  Endpoint: 1673 (9,11,9)  Direction: 0
+Ivol poly: 118.  Edge dual.  Endpoint: 1704 (1,1,10)  Direction: 0
+Ivol poly: 119.  Edge dual.  Endpoint: 1735 (6,3,10)  Direction: 0  Reverse orient.
+Ivol poly: 120.  Edge dual.  Endpoint: 1736 (7,3,10)  Direction: 0
+Ivol poly: 121.  Edge dual.  Endpoint: 1756 (1,5,10)  Direction: 0
+Ivol poly: 122.  Edge dual.  Endpoint: 1759 (4,5,10)  Direction: 0  Reverse orient.
+Ivol poly: 123.  Edge dual.  Endpoint: 1760 (5,5,10)  Direction: 0
+Ivol poly: 124.  Edge dual.  Endpoint: 1765 (10,5,10)  Direction: 0  Reverse orient.
+Ivol poly: 125.  Edge dual.  Endpoint: 1778 (10,6,10)  Direction: 0  Reverse orient.
+Ivol poly: 126.  Edge dual.  Endpoint: 1783 (2,7,10)  Direction: 0  Reverse orient.
+Ivol poly: 127.  Edge dual.  Endpoint: 1784 (3,7,10)  Direction: 0
+Ivol poly: 128.  Edge dual.  Endpoint: 1838 (5,11,10)  Direction: 0  Reverse orient.
+Ivol poly: 129.  Edge dual.  Endpoint: 1841 (8,11,10)  Direction: 0
+Ivol poly: 130.  Edge dual.  Endpoint: 1877 (5,1,11)  Direction: 0
+Ivol poly: 131.  Edge dual.  Endpoint: 1889 (4,2,11)  Direction: 0  Reverse orient.
+Ivol poly: 132.  Edge dual.  Endpoint: 1890 (5,2,11)  Direction: 0
+Ivol poly: 133.  Edge dual.  Endpoint: 1902 (4,3,11)  Direction: 0  Reverse orient.
+Ivol poly: 134.  Edge dual.  Endpoint: 1905 (7,3,11)  Direction: 0
+Ivol poly: 135.  Edge dual.  Endpoint: 1915 (4,4,11)  Direction: 0  Reverse orient.
+Ivol poly: 136.  Edge dual.  Endpoint: 1916 (5,4,11)  Direction: 0
+Ivol poly: 137.  Edge dual.  Endpoint: 1925 (1,5,11)  Direction: 0
+Ivol poly: 138.  Edge dual.  Endpoint: 1928 (4,5,11)  Direction: 0  Reverse orient.
+Ivol poly: 139.  Edge dual.  Endpoint: 1929 (5,5,11)  Direction: 0
+Ivol poly: 140.  Edge dual.  Endpoint: 1934 (10,5,11)  Direction: 0  Reverse orient.
+Ivol poly: 141.  Edge dual.  Endpoint: 1946 (9,6,11)  Direction: 0  Reverse orient.
+Ivol poly: 142.  Edge dual.  Endpoint: 1952 (2,7,11)  Direction: 0  Reverse orient.
+Ivol poly: 143.  Edge dual.  Endpoint: 1953 (3,7,11)  Direction: 0
+Ivol poly: 144.  Edge dual.  Endpoint: 1958 (8,7,11)  Direction: 0  Reverse orient.
+Ivol poly: 145.  Edge dual.  Endpoint: 1965 (2,8,11)  Direction: 0  Reverse orient.
+Ivol poly: 146.  Edge dual.  Endpoint: 1966 (3,8,11)  Direction: 0
+Ivol poly: 147.  Edge dual.  Endpoint: 1978 (2,9,11)  Direction: 0  Reverse orient.
+Ivol poly: 148.  Edge dual.  Endpoint: 1979 (3,9,11)  Direction: 0
+Ivol poly: 149.  Edge dual.  Endpoint: 2003 (1,11,11)  Direction: 0
+Ivol poly: 150.  Edge dual.  Endpoint: 2008 (6,11,11)  Direction: 0  Reverse orient.
+Ivol poly: 151.  Edge dual.  Endpoint: 2009 (7,11,11)  Direction: 0
+Ivol poly: 152.  Edge dual.  Endpoint: 274 (1,8,1)  Direction: 1  Reverse orient.
+Ivol poly: 153.  Edge dual.  Endpoint: 287 (1,9,1)  Direction: 1
+Ivol poly: 154.  Edge dual.  Endpoint: 275 (2,8,1)  Direction: 1  Reverse orient.
+Ivol poly: 155.  Edge dual.  Endpoint: 288 (2,9,1)  Direction: 1
+Ivol poly: 156.  Edge dual.  Endpoint: 185 (3,1,1)  Direction: 1
+Ivol poly: 157.  Edge dual.  Endpoint: 276 (3,8,1)  Direction: 1  Reverse orient.
+Ivol poly: 158.  Edge dual.  Endpoint: 289 (3,9,1)  Direction: 1
+Ivol poly: 159.  Edge dual.  Endpoint: 186 (4,1,1)  Direction: 1
+Ivol poly: 160.  Edge dual.  Endpoint: 187 (5,1,1)  Direction: 1
+Ivol poly: 161.  Edge dual.  Endpoint: 252 (5,6,1)  Direction: 1  Reverse orient.
+Ivol poly: 162.  Edge dual.  Endpoint: 265 (5,7,1)  Direction: 1
+Ivol poly: 163.  Edge dual.  Endpoint: 304 (5,10,1)  Direction: 1  Reverse orient.
+Ivol poly: 164.  Edge dual.  Endpoint: 305 (6,10,1)  Direction: 1  Reverse orient.
+Ivol poly: 165.  Edge dual.  Endpoint: 202 (7,2,1)  Direction: 1  Reverse orient.
+Ivol poly: 166.  Edge dual.  Endpoint: 215 (7,3,1)  Direction: 1
+Ivol poly: 167.  Edge dual.  Endpoint: 306 (7,10,1)  Direction: 1  Reverse orient.
+Ivol poly: 168.  Edge dual.  Endpoint: 307 (8,10,1)  Direction: 1  Reverse orient.
+Ivol poly: 169.  Edge dual.  Endpoint: 282 (9,8,1)  Direction: 1  Reverse orient.
+Ivol poly: 170.  Edge dual.  Endpoint: 283 (10,8,1)  Direction: 1  Reverse orient.
+Ivol poly: 171.  Edge dual.  Endpoint: 284 (11,8,1)  Direction: 1  Reverse orient.
+Ivol poly: 172.  Edge dual.  Endpoint: 443 (1,8,2)  Direction: 1  Reverse orient.
+Ivol poly: 173.  Edge dual.  Endpoint: 456 (1,9,2)  Direction: 1
+Ivol poly: 174.  Edge dual.  Endpoint: 444 (2,8,2)  Direction: 1  Reverse orient.
+Ivol poly: 175.  Edge dual.  Endpoint: 457 (2,9,2)  Direction: 1
+Ivol poly: 176.  Edge dual.  Endpoint: 367 (3,2,2)  Direction: 1
+Ivol poly: 177.  Edge dual.  Endpoint: 445 (3,8,2)  Direction: 1  Reverse orient.
+Ivol poly: 178.  Edge dual.  Endpoint: 458 (3,9,2)  Direction: 1
+Ivol poly: 179.  Edge dual.  Endpoint: 408 (5,5,2)  Direction: 1  Reverse orient.
+Ivol poly: 180.  Edge dual.  Endpoint: 434 (5,7,2)  Direction: 1
+Ivol poly: 181.  Edge dual.  Endpoint: 473 (5,10,2)  Direction: 1  Reverse orient.
+Ivol poly: 182.  Edge dual.  Endpoint: 451 (9,8,2)  Direction: 1  Reverse orient.
+Ivol poly: 183.  Edge dual.  Endpoint: 464 (9,9,2)  Direction: 1
+Ivol poly: 184.  Edge dual.  Endpoint: 452 (10,8,2)  Direction: 1  Reverse orient.
+Ivol poly: 185.  Edge dual.  Endpoint: 465 (10,9,2)  Direction: 1
+Ivol poly: 186.  Edge dual.  Endpoint: 560 (1,4,3)  Direction: 1  Reverse orient.
+Ivol poly: 187.  Edge dual.  Endpoint: 573 (1,5,3)  Direction: 1
+Ivol poly: 188.  Edge dual.  Endpoint: 612 (1,8,3)  Direction: 1  Reverse orient.
+Ivol poly: 189.  Edge dual.  Endpoint: 625 (1,9,3)  Direction: 1
+Ivol poly: 190.  Edge dual.  Endpoint: 613 (2,8,3)  Direction: 1  Reverse orient.
+Ivol poly: 191.  Edge dual.  Endpoint: 626 (2,9,3)  Direction: 1
+Ivol poly: 192.  Edge dual.  Endpoint: 549 (3,3,3)  Direction: 1
+Ivol poly: 193.  Edge dual.  Endpoint: 588 (3,6,3)  Direction: 1  Reverse orient.
+Ivol poly: 194.  Edge dual.  Endpoint: 627 (3,9,3)  Direction: 1
+Ivol poly: 195.  Edge dual.  Endpoint: 589 (4,6,3)  Direction: 1  Reverse orient.
+Ivol poly: 196.  Edge dual.  Endpoint: 628 (4,9,3)  Direction: 1
+Ivol poly: 197.  Edge dual.  Endpoint: 564 (5,4,3)  Direction: 1  Reverse orient.
+Ivol poly: 198.  Edge dual.  Endpoint: 578 (6,5,3)  Direction: 1  Reverse orient.
+Ivol poly: 199.  Edge dual.  Endpoint: 617 (6,8,3)  Direction: 1
+Ivol poly: 200.  Edge dual.  Endpoint: 592 (7,6,3)  Direction: 1  Reverse orient.
+Ivol poly: 201.  Edge dual.  Endpoint: 605 (7,7,3)  Direction: 1
+Ivol poly: 202.  Edge dual.  Endpoint: 620 (9,8,3)  Direction: 1  Reverse orient.
+Ivol poly: 203.  Edge dual.  Endpoint: 633 (9,9,3)  Direction: 1
+Ivol poly: 204.  Edge dual.  Endpoint: 544 (11,2,3)  Direction: 1  Reverse orient.
+Ivol poly: 205.  Edge dual.  Endpoint: 609 (11,7,3)  Direction: 1
+Ivol poly: 206.  Edge dual.  Endpoint: 705 (3,2,4)  Direction: 1
+Ivol poly: 207.  Edge dual.  Endpoint: 784 (4,8,4)  Direction: 1  Reverse orient.
+Ivol poly: 208.  Edge dual.  Endpoint: 797 (4,9,4)  Direction: 1
+Ivol poly: 209.  Edge dual.  Endpoint: 785 (5,8,4)  Direction: 1  Reverse orient.
+Ivol poly: 210.  Edge dual.  Endpoint: 798 (5,9,4)  Direction: 1
+Ivol poly: 211.  Edge dual.  Endpoint: 786 (6,8,4)  Direction: 1  Reverse orient.
+Ivol poly: 212.  Edge dual.  Endpoint: 799 (6,9,4)  Direction: 1
+Ivol poly: 213.  Edge dual.  Endpoint: 788 (8,8,4)  Direction: 1  Reverse orient.
+Ivol poly: 214.  Edge dual.  Endpoint: 801 (8,9,4)  Direction: 1
+Ivol poly: 215.  Edge dual.  Endpoint: 789 (9,8,4)  Direction: 1  Reverse orient.
+Ivol poly: 216.  Edge dual.  Endpoint: 802 (9,9,4)  Direction: 1
+Ivol poly: 217.  Edge dual.  Endpoint: 739 (11,4,4)  Direction: 1  Reverse orient.
+Ivol poly: 218.  Edge dual.  Endpoint: 752 (11,5,4)  Direction: 1
+Ivol poly: 219.  Edge dual.  Endpoint: 924 (1,6,5)  Direction: 1  Reverse orient.
+Ivol poly: 220.  Edge dual.  Endpoint: 937 (1,7,5)  Direction: 1
+Ivol poly: 221.  Edge dual.  Endpoint: 861 (3,1,5)  Direction: 1
+Ivol poly: 222.  Edge dual.  Endpoint: 900 (3,4,5)  Direction: 1  Reverse orient.
+Ivol poly: 223.  Edge dual.  Endpoint: 913 (3,5,5)  Direction: 1
+Ivol poly: 224.  Edge dual.  Endpoint: 978 (3,10,5)  Direction: 1  Reverse orient.
+Ivol poly: 225.  Edge dual.  Endpoint: 954 (5,8,5)  Direction: 1  Reverse orient.
+Ivol poly: 226.  Edge dual.  Endpoint: 967 (5,9,5)  Direction: 1
+Ivol poly: 227.  Edge dual.  Endpoint: 955 (6,8,5)  Direction: 1  Reverse orient.
+Ivol poly: 228.  Edge dual.  Endpoint: 968 (6,9,5)  Direction: 1
+Ivol poly: 229.  Edge dual.  Endpoint: 865 (7,1,5)  Direction: 1
+Ivol poly: 230.  Edge dual.  Endpoint: 956 (7,8,5)  Direction: 1  Reverse orient.
+Ivol poly: 231.  Edge dual.  Endpoint: 969 (7,9,5)  Direction: 1
+Ivol poly: 232.  Edge dual.  Endpoint: 866 (8,1,5)  Direction: 1
+Ivol poly: 233.  Edge dual.  Endpoint: 957 (8,8,5)  Direction: 1  Reverse orient.
+Ivol poly: 234.  Edge dual.  Endpoint: 983 (8,10,5)  Direction: 1
+Ivol poly: 235.  Edge dual.  Endpoint: 867 (9,1,5)  Direction: 1
+Ivol poly: 236.  Edge dual.  Endpoint: 906 (9,4,5)  Direction: 1  Reverse orient.
+Ivol poly: 237.  Edge dual.  Endpoint: 919 (9,5,5)  Direction: 1
+Ivol poly: 238.  Edge dual.  Endpoint: 958 (9,8,5)  Direction: 1  Reverse orient.
+Ivol poly: 239.  Edge dual.  Endpoint: 907 (10,4,5)  Direction: 1  Reverse orient.
+Ivol poly: 240.  Edge dual.  Endpoint: 920 (10,5,5)  Direction: 1
+Ivol poly: 241.  Edge dual.  Endpoint: 985 (10,10,5)  Direction: 1  Reverse orient.
+Ivol poly: 242.  Edge dual.  Endpoint: 908 (11,4,5)  Direction: 1  Reverse orient.
+Ivol poly: 243.  Edge dual.  Endpoint: 921 (11,5,5)  Direction: 1
+Ivol poly: 244.  Edge dual.  Endpoint: 986 (11,10,5)  Direction: 1  Reverse orient.
+Ivol poly: 245.  Edge dual.  Endpoint: 1147 (3,10,6)  Direction: 1  Reverse orient.
+Ivol poly: 246.  Edge dual.  Endpoint: 1123 (5,8,6)  Direction: 1  Reverse orient.
+Ivol poly: 247.  Edge dual.  Endpoint: 1136 (5,9,6)  Direction: 1
+Ivol poly: 248.  Edge dual.  Endpoint: 1124 (6,8,6)  Direction: 1  Reverse orient.
+Ivol poly: 249.  Edge dual.  Endpoint: 1137 (6,9,6)  Direction: 1
+Ivol poly: 250.  Edge dual.  Endpoint: 1075 (9,4,6)  Direction: 1  Reverse orient.
+Ivol poly: 251.  Edge dual.  Endpoint: 1088 (9,5,6)  Direction: 1
+Ivol poly: 252.  Edge dual.  Endpoint: 1153 (9,10,6)  Direction: 1  Reverse orient.
+Ivol poly: 253.  Edge dual.  Endpoint: 1197 (1,1,7)  Direction: 1
+Ivol poly: 254.  Edge dual.  Endpoint: 1236 (1,4,7)  Direction: 1  Reverse orient.
+Ivol poly: 255.  Edge dual.  Endpoint: 1249 (1,5,7)  Direction: 1
+Ivol poly: 256.  Edge dual.  Endpoint: 1316 (3,10,7)  Direction: 1  Reverse orient.
+Ivol poly: 257.  Edge dual.  Endpoint: 1304 (4,9,7)  Direction: 1  Reverse orient.
+Ivol poly: 258.  Edge dual.  Endpoint: 1240 (5,4,7)  Direction: 1  Reverse orient.
+Ivol poly: 259.  Edge dual.  Endpoint: 1253 (5,5,7)  Direction: 1
+Ivol poly: 260.  Edge dual.  Endpoint: 1292 (5,8,7)  Direction: 1  Reverse orient.
+Ivol poly: 261.  Edge dual.  Endpoint: 1244 (9,4,7)  Direction: 1  Reverse orient.
+Ivol poly: 262.  Edge dual.  Endpoint: 1257 (9,5,7)  Direction: 1
+Ivol poly: 263.  Edge dual.  Endpoint: 1322 (9,10,7)  Direction: 1  Reverse orient.
+Ivol poly: 264.  Edge dual.  Endpoint: 1272 (11,6,7)  Direction: 1  Reverse orient.
+Ivol poly: 265.  Edge dual.  Endpoint: 1285 (11,7,7)  Direction: 1
+Ivol poly: 266.  Edge dual.  Endpoint: 1366 (1,1,8)  Direction: 1
+Ivol poly: 267.  Edge dual.  Endpoint: 1405 (1,4,8)  Direction: 1  Reverse orient.
+Ivol poly: 268.  Edge dual.  Endpoint: 1418 (1,5,8)  Direction: 1
+Ivol poly: 269.  Edge dual.  Endpoint: 1486 (4,10,8)  Direction: 1  Reverse orient.
+Ivol poly: 270.  Edge dual.  Endpoint: 1409 (5,4,8)  Direction: 1  Reverse orient.
+Ivol poly: 271.  Edge dual.  Endpoint: 1422 (5,5,8)  Direction: 1
+Ivol poly: 272.  Edge dual.  Endpoint: 1487 (5,10,8)  Direction: 1  Reverse orient.
+Ivol poly: 273.  Edge dual.  Endpoint: 1488 (6,10,8)  Direction: 1  Reverse orient.
+Ivol poly: 274.  Edge dual.  Endpoint: 1490 (8,10,8)  Direction: 1  Reverse orient.
+Ivol poly: 275.  Edge dual.  Endpoint: 1491 (9,10,8)  Direction: 1  Reverse orient.
+Ivol poly: 276.  Edge dual.  Endpoint: 1535 (1,1,9)  Direction: 1
+Ivol poly: 277.  Edge dual.  Endpoint: 1574 (1,4,9)  Direction: 1  Reverse orient.
+Ivol poly: 278.  Edge dual.  Endpoint: 1587 (1,5,9)  Direction: 1
+Ivol poly: 279.  Edge dual.  Endpoint: 1602 (3,6,9)  Direction: 1  Reverse orient.
+Ivol poly: 280.  Edge dual.  Endpoint: 1615 (3,7,9)  Direction: 1
+Ivol poly: 281.  Edge dual.  Endpoint: 1578 (5,4,9)  Direction: 1  Reverse orient.
+Ivol poly: 282.  Edge dual.  Endpoint: 1591 (5,5,9)  Direction: 1
+Ivol poly: 283.  Edge dual.  Endpoint: 1656 (5,10,9)  Direction: 1  Reverse orient.
+Ivol poly: 284.  Edge dual.  Endpoint: 1579 (6,4,9)  Direction: 1  Reverse orient.
+Ivol poly: 285.  Edge dual.  Endpoint: 1592 (6,5,9)  Direction: 1
+Ivol poly: 286.  Edge dual.  Endpoint: 1657 (6,10,9)  Direction: 1  Reverse orient.
+Ivol poly: 287.  Edge dual.  Endpoint: 1554 (7,2,9)  Direction: 1  Reverse orient.
+Ivol poly: 288.  Edge dual.  Endpoint: 1593 (7,5,9)  Direction: 1
+Ivol poly: 289.  Edge dual.  Endpoint: 1658 (7,10,9)  Direction: 1  Reverse orient.
+Ivol poly: 290.  Edge dual.  Endpoint: 1659 (8,10,9)  Direction: 1  Reverse orient.
+Ivol poly: 291.  Edge dual.  Endpoint: 1660 (9,10,9)  Direction: 1  Reverse orient.
+Ivol poly: 292.  Edge dual.  Endpoint: 1584 (11,4,9)  Direction: 1  Reverse orient.
+Ivol poly: 293.  Edge dual.  Endpoint: 1597 (11,5,9)  Direction: 1
+Ivol poly: 294.  Edge dual.  Endpoint: 1704 (1,1,10)  Direction: 1
+Ivol poly: 295.  Edge dual.  Endpoint: 1743 (1,4,10)  Direction: 1  Reverse orient.
+Ivol poly: 296.  Edge dual.  Endpoint: 1756 (1,5,10)  Direction: 1
+Ivol poly: 297.  Edge dual.  Endpoint: 1771 (3,6,10)  Direction: 1  Reverse orient.
+Ivol poly: 298.  Edge dual.  Endpoint: 1784 (3,7,10)  Direction: 1
+Ivol poly: 299.  Edge dual.  Endpoint: 1747 (5,4,10)  Direction: 1  Reverse orient.
+Ivol poly: 300.  Edge dual.  Endpoint: 1760 (5,5,10)  Direction: 1
+Ivol poly: 301.  Edge dual.  Endpoint: 1826 (6,10,10)  Direction: 1  Reverse orient.
+Ivol poly: 302.  Edge dual.  Endpoint: 1723 (7,2,10)  Direction: 1  Reverse orient.
+Ivol poly: 303.  Edge dual.  Endpoint: 1736 (7,3,10)  Direction: 1
+Ivol poly: 304.  Edge dual.  Endpoint: 1827 (7,10,10)  Direction: 1  Reverse orient.
+Ivol poly: 305.  Edge dual.  Endpoint: 1828 (8,10,10)  Direction: 1  Reverse orient.
+Ivol poly: 306.  Edge dual.  Endpoint: 1753 (11,4,10)  Direction: 1  Reverse orient.
+Ivol poly: 307.  Edge dual.  Endpoint: 1779 (11,6,10)  Direction: 1
+Ivol poly: 308.  Edge dual.  Endpoint: 1873 (1,1,11)  Direction: 1
+Ivol poly: 309.  Edge dual.  Endpoint: 1912 (1,4,11)  Direction: 1  Reverse orient.
+Ivol poly: 310.  Edge dual.  Endpoint: 1925 (1,5,11)  Direction: 1
+Ivol poly: 311.  Edge dual.  Endpoint: 1990 (1,10,11)  Direction: 1  Reverse orient.
+Ivol poly: 312.  Edge dual.  Endpoint: 1874 (2,1,11)  Direction: 1
+Ivol poly: 313.  Edge dual.  Endpoint: 1875 (3,1,11)  Direction: 1
+Ivol poly: 314.  Edge dual.  Endpoint: 1940 (3,6,11)  Direction: 1  Reverse orient.
+Ivol poly: 315.  Edge dual.  Endpoint: 1979 (3,9,11)  Direction: 1
+Ivol poly: 316.  Edge dual.  Endpoint: 1876 (4,1,11)  Direction: 1
+Ivol poly: 317.  Edge dual.  Endpoint: 1929 (5,5,11)  Direction: 1
+Ivol poly: 318.  Edge dual.  Endpoint: 1891 (6,2,11)  Direction: 1  Reverse orient.
+Ivol poly: 319.  Edge dual.  Endpoint: 1904 (6,3,11)  Direction: 1
+Ivol poly: 320.  Edge dual.  Endpoint: 1892 (7,2,11)  Direction: 1  Reverse orient.
+Ivol poly: 321.  Edge dual.  Endpoint: 1905 (7,3,11)  Direction: 1
+Ivol poly: 322.  Edge dual.  Endpoint: 1996 (7,10,11)  Direction: 1  Reverse orient.
+Ivol poly: 323.  Edge dual.  Endpoint: 1946 (9,6,11)  Direction: 1  Reverse orient.
+Ivol poly: 324.  Edge dual.  Endpoint: 1959 (9,7,11)  Direction: 1
+Ivol poly: 325.  Edge dual.  Endpoint: 1934 (10,5,11)  Direction: 1  Reverse orient.
+Ivol poly: 326.  Edge dual.  Endpoint: 1960 (10,7,11)  Direction: 1
+Ivol poly: 327.  Edge dual.  Endpoint: 1922 (11,4,11)  Direction: 1  Reverse orient.
+Ivol poly: 328.  Edge dual.  Endpoint: 1961 (11,7,11)  Direction: 1
+Ivol poly: 329.  Edge dual.  Endpoint: 1028 (1,1,6)  Direction: 2  Reverse orient.
+Ivol poly: 330.  Edge dual.  Endpoint: 1705 (2,1,10)  Direction: 2  Reverse orient.
+Ivol poly: 331.  Edge dual.  Endpoint: 861 (3,1,5)  Direction: 2
+Ivol poly: 332.  Edge dual.  Endpoint: 1706 (3,1,10)  Direction: 2  Reverse orient.
+Ivol poly: 333.  Edge dual.  Endpoint: 186 (4,1,1)  Direction: 2
+Ivol poly: 334.  Edge dual.  Endpoint: 1707 (4,1,10)  Direction: 2  Reverse orient.
+Ivol poly: 335.  Edge dual.  Endpoint: 187 (5,1,1)  Direction: 2
+Ivol poly: 336.  Edge dual.  Endpoint: 1708 (5,1,10)  Direction: 2  Reverse orient.
+Ivol poly: 337.  Edge dual.  Endpoint: 696 (7,1,4)  Direction: 2  Reverse orient.
+Ivol poly: 338.  Edge dual.  Endpoint: 865 (7,1,5)  Direction: 2
+Ivol poly: 339.  Edge dual.  Endpoint: 697 (8,1,4)  Direction: 2  Reverse orient.
+Ivol poly: 340.  Edge dual.  Endpoint: 866 (8,1,5)  Direction: 2
+Ivol poly: 341.  Edge dual.  Endpoint: 698 (9,1,4)  Direction: 2  Reverse orient.
+Ivol poly: 342.  Edge dual.  Endpoint: 867 (9,1,5)  Direction: 2
+Ivol poly: 343.  Edge dual.  Endpoint: 198 (3,2,1)  Direction: 2  Reverse orient.
+Ivol poly: 344.  Edge dual.  Endpoint: 705 (3,2,4)  Direction: 2
+Ivol poly: 345.  Edge dual.  Endpoint: 1721 (5,2,10)  Direction: 2  Reverse orient.
+Ivol poly: 346.  Edge dual.  Endpoint: 380 (3,3,2)  Direction: 2  Reverse orient.
+Ivol poly: 347.  Edge dual.  Endpoint: 549 (3,3,3)  Direction: 2
+Ivol poly: 348.  Edge dual.  Endpoint: 1734 (5,3,10)  Direction: 2  Reverse orient.
+Ivol poly: 349.  Edge dual.  Endpoint: 1735 (6,3,10)  Direction: 2  Reverse orient.
+Ivol poly: 350.  Edge dual.  Endpoint: 215 (7,3,1)  Direction: 2
+Ivol poly: 351.  Edge dual.  Endpoint: 1398 (7,3,8)  Direction: 2  Reverse orient.
+Ivol poly: 352.  Edge dual.  Endpoint: 388 (11,3,2)  Direction: 2  Reverse orient.
+Ivol poly: 353.  Edge dual.  Endpoint: 557 (11,3,3)  Direction: 2
+Ivol poly: 354.  Edge dual.  Endpoint: 1747 (5,4,10)  Direction: 2  Reverse orient.
+Ivol poly: 355.  Edge dual.  Endpoint: 1411 (7,4,8)  Direction: 2  Reverse orient.
+Ivol poly: 356.  Edge dual.  Endpoint: 1580 (7,4,9)  Direction: 2
+Ivol poly: 357.  Edge dual.  Endpoint: 401 (11,4,2)  Direction: 2  Reverse orient.
+Ivol poly: 358.  Edge dual.  Endpoint: 570 (11,4,3)  Direction: 2
+Ivol poly: 359.  Edge dual.  Endpoint: 404 (1,5,2)  Direction: 2  Reverse orient.
+Ivol poly: 360.  Edge dual.  Endpoint: 573 (1,5,3)  Direction: 2
+Ivol poly: 361.  Edge dual.  Endpoint: 1080 (1,5,6)  Direction: 2  Reverse orient.
+Ivol poly: 362.  Edge dual.  Endpoint: 744 (3,5,4)  Direction: 2  Reverse orient.
+Ivol poly: 363.  Edge dual.  Endpoint: 913 (3,5,5)  Direction: 2
+Ivol poly: 364.  Edge dual.  Endpoint: 408 (5,5,2)  Direction: 2  Reverse orient.
+Ivol poly: 365.  Edge dual.  Endpoint: 577 (5,5,3)  Direction: 2
+Ivol poly: 366.  Edge dual.  Endpoint: 1084 (5,5,6)  Direction: 2  Reverse orient.
+Ivol poly: 367.  Edge dual.  Endpoint: 1423 (6,5,8)  Direction: 2  Reverse orient.
+Ivol poly: 368.  Edge dual.  Endpoint: 1592 (6,5,9)  Direction: 2
+Ivol poly: 369.  Edge dual.  Endpoint: 1424 (7,5,8)  Direction: 2  Reverse orient.
+Ivol poly: 370.  Edge dual.  Endpoint: 1593 (7,5,9)  Direction: 2
+Ivol poly: 371.  Edge dual.  Endpoint: 750 (9,5,4)  Direction: 2  Reverse orient.
+Ivol poly: 372.  Edge dual.  Endpoint: 1257 (9,5,7)  Direction: 2
+Ivol poly: 373.  Edge dual.  Endpoint: 751 (10,5,4)  Direction: 2  Reverse orient.
+Ivol poly: 374.  Edge dual.  Endpoint: 920 (10,5,5)  Direction: 2
+Ivol poly: 375.  Edge dual.  Endpoint: 414 (11,5,2)  Direction: 2  Reverse orient.
+Ivol poly: 376.  Edge dual.  Endpoint: 921 (11,5,5)  Direction: 2
+Ivol poly: 377.  Edge dual.  Endpoint: 1428 (11,5,8)  Direction: 2  Reverse orient.
+Ivol poly: 378.  Edge dual.  Endpoint: 252 (5,6,1)  Direction: 2  Reverse orient.
+Ivol poly: 379.  Edge dual.  Endpoint: 590 (5,6,3)  Direction: 2
+Ivol poly: 380.  Edge dual.  Endpoint: 422 (6,6,2)  Direction: 2  Reverse orient.
+Ivol poly: 381.  Edge dual.  Endpoint: 591 (6,6,3)  Direction: 2
+Ivol poly: 382.  Edge dual.  Endpoint: 1778 (10,6,10)  Direction: 2  Reverse orient.
+Ivol poly: 383.  Edge dual.  Endpoint: 427 (11,6,2)  Direction: 2  Reverse orient.
+Ivol poly: 384.  Edge dual.  Endpoint: 596 (11,6,3)  Direction: 2
+Ivol poly: 385.  Edge dual.  Endpoint: 1610 (11,6,9)  Direction: 2  Reverse orient.
+Ivol poly: 386.  Edge dual.  Endpoint: 768 (1,7,4)  Direction: 2  Reverse orient.
+Ivol poly: 387.  Edge dual.  Endpoint: 937 (1,7,5)  Direction: 2
+Ivol poly: 388.  Edge dual.  Endpoint: 432 (3,7,2)  Direction: 2  Reverse orient.
+Ivol poly: 389.  Edge dual.  Endpoint: 601 (3,7,3)  Direction: 2
+Ivol poly: 390.  Edge dual.  Endpoint: 1446 (3,7,8)  Direction: 2  Reverse orient.
+Ivol poly: 391.  Edge dual.  Endpoint: 433 (4,7,2)  Direction: 2  Reverse orient.
+Ivol poly: 392.  Edge dual.  Endpoint: 602 (4,7,3)  Direction: 2
+Ivol poly: 393.  Edge dual.  Endpoint: 603 (5,7,3)  Direction: 2
+Ivol poly: 394.  Edge dual.  Endpoint: 435 (6,7,2)  Direction: 2  Reverse orient.
+Ivol poly: 395.  Edge dual.  Endpoint: 604 (6,7,3)  Direction: 2
+Ivol poly: 396.  Edge dual.  Endpoint: 436 (7,7,2)  Direction: 2  Reverse orient.
+Ivol poly: 397.  Edge dual.  Endpoint: 605 (7,7,3)  Direction: 2
+Ivol poly: 398.  Edge dual.  Endpoint: 1790 (9,7,10)  Direction: 2  Reverse orient.
+Ivol poly: 399.  Edge dual.  Endpoint: 1791 (10,7,10)  Direction: 2  Reverse orient.
+Ivol poly: 400.  Edge dual.  Endpoint: 440 (11,7,2)  Direction: 2  Reverse orient.
+Ivol poly: 401.  Edge dual.  Endpoint: 609 (11,7,3)  Direction: 2
+Ivol poly: 402.  Edge dual.  Endpoint: 1116 (11,7,6)  Direction: 2  Reverse orient.
+Ivol poly: 403.  Edge dual.  Endpoint: 1285 (11,7,7)  Direction: 2
+Ivol poly: 404.  Edge dual.  Endpoint: 1792 (11,7,10)  Direction: 2  Reverse orient.
+Ivol poly: 405.  Edge dual.  Endpoint: 445 (3,8,2)  Direction: 2  Reverse orient.
+Ivol poly: 406.  Edge dual.  Endpoint: 614 (3,8,3)  Direction: 2
+Ivol poly: 407.  Edge dual.  Endpoint: 1797 (3,8,10)  Direction: 2  Reverse orient.
+Ivol poly: 408.  Edge dual.  Endpoint: 446 (4,8,2)  Direction: 2  Reverse orient.
+Ivol poly: 409.  Edge dual.  Endpoint: 615 (4,8,3)  Direction: 2
+Ivol poly: 410.  Edge dual.  Endpoint: 447 (5,8,2)  Direction: 2  Reverse orient.
+Ivol poly: 411.  Edge dual.  Endpoint: 616 (5,8,3)  Direction: 2
+Ivol poly: 412.  Edge dual.  Endpoint: 448 (6,8,2)  Direction: 2  Reverse orient.
+Ivol poly: 413.  Edge dual.  Endpoint: 617 (6,8,3)  Direction: 2
+Ivol poly: 414.  Edge dual.  Endpoint: 625 (1,9,3)  Direction: 2
+Ivol poly: 415.  Edge dual.  Endpoint: 626 (2,9,3)  Direction: 2
+Ivol poly: 416.  Edge dual.  Endpoint: 627 (3,9,3)  Direction: 2
+Ivol poly: 417.  Edge dual.  Endpoint: 1810 (3,9,10)  Direction: 2  Reverse orient.
+Ivol poly: 418.  Edge dual.  Endpoint: 459 (4,9,2)  Direction: 2  Reverse orient.
+Ivol poly: 419.  Edge dual.  Endpoint: 797 (4,9,4)  Direction: 2
+Ivol poly: 420.  Edge dual.  Endpoint: 460 (5,9,2)  Direction: 2  Reverse orient.
+Ivol poly: 421.  Edge dual.  Endpoint: 1305 (5,9,7)  Direction: 2
+Ivol poly: 422.  Edge dual.  Endpoint: 630 (6,9,3)  Direction: 2  Reverse orient.
+Ivol poly: 423.  Edge dual.  Endpoint: 1137 (6,9,6)  Direction: 2
+Ivol poly: 424.  Edge dual.  Endpoint: 800 (7,9,4)  Direction: 2  Reverse orient.
+Ivol poly: 425.  Edge dual.  Endpoint: 969 (7,9,5)  Direction: 2
+Ivol poly: 426.  Edge dual.  Endpoint: 632 (8,9,3)  Direction: 2  Reverse orient.
+Ivol poly: 427.  Edge dual.  Endpoint: 970 (8,9,5)  Direction: 2
+Ivol poly: 428.  Edge dual.  Endpoint: 971 (9,9,5)  Direction: 2
+Ivol poly: 429.  Edge dual.  Endpoint: 465 (10,9,2)  Direction: 2
+Ivol poly: 430.  Edge dual.  Endpoint: 297 (11,9,1)  Direction: 2
+Ivol poly: 431.  Edge dual.  Endpoint: 1148 (4,10,6)  Direction: 2  Reverse orient.
+Ivol poly: 432.  Edge dual.  Endpoint: 1317 (4,10,7)  Direction: 2
+Ivol poly: 433.  Edge dual.  Endpoint: 473 (5,10,2)  Direction: 2  Reverse orient.
+Ivol poly: 434.  Edge dual.  Endpoint: 642 (5,10,3)  Direction: 2
+Ivol poly: 435.  Edge dual.  Endpoint: 1149 (5,10,6)  Direction: 2  Reverse orient.
+Ivol poly: 436.  Edge dual.  Endpoint: 1318 (5,10,7)  Direction: 2
+Ivol poly: 437.  Edge dual.  Endpoint: 814 (8,10,4)  Direction: 2  Reverse orient.
+Ivol poly: 438.  Edge dual.  Endpoint: 983 (8,10,5)  Direction: 2
+Ivol poly: 439.  Edge dual.  Endpoint: 308 (9,10,1)  Direction: 2
+Ivol poly: 440.  Edge dual.  Endpoint: 815 (9,10,4)  Direction: 2  Reverse orient.
+Ivol poly: 441.  Edge dual.  Endpoint: 984 (9,10,5)  Direction: 2
+Ivol poly: 442.  Edge dual.  Endpoint: 309 (10,10,1)  Direction: 2
+Ivol poly: 443.  Edge dual.  Endpoint: 310 (11,10,1)  Direction: 2
+Ivol poly: 444.  Edge dual.  Endpoint: 1834 (1,11,10)  Direction: 2  Reverse orient.
+Ivol poly: 445.  Edge dual.  Endpoint: 822 (3,11,4)  Direction: 2  Reverse orient.
+Ivol poly: 446.  Edge dual.  Endpoint: 1329 (3,11,7)  Direction: 2
+Ivol poly: 447.  Edge dual.  Endpoint: 1161 (4,11,6)  Direction: 2  Reverse orient.
+Ivol poly: 448.  Edge dual.  Endpoint: 1499 (4,11,8)  Direction: 2
+Ivol poly: 449.  Edge dual.  Endpoint: 655 (5,11,3)  Direction: 2
+Ivol poly: 450.  Edge dual.  Endpoint: 1162 (5,11,6)  Direction: 2  Reverse orient.
+Ivol poly: 451.  Edge dual.  Endpoint: 1669 (5,11,9)  Direction: 2
+Ivol poly: 452.  Edge dual.  Endpoint: 318 (6,11,1)  Direction: 2
+Ivol poly: 453.  Edge dual.  Endpoint: 1332 (6,11,7)  Direction: 2  Reverse orient.
+Ivol poly: 454.  Edge dual.  Endpoint: 1839 (6,11,10)  Direction: 2
+Ivol poly: 455.  Edge dual.  Endpoint: 319 (7,11,1)  Direction: 2
+Ivol poly: 456.  Edge dual.  Endpoint: 1502 (7,11,8)  Direction: 2  Reverse orient.
+Ivol poly: 457.  Edge dual.  Endpoint: 320 (8,11,1)  Direction: 2
+Ivol poly: 458.  Edge dual.  Endpoint: 1334 (8,11,7)  Direction: 2  Reverse orient.
+Ivol poly: 459.  Edge dual.  Endpoint: 1841 (8,11,10)  Direction: 2
+Ivol poly: 460.  Edge dual.  Endpoint: 321 (9,11,1)  Direction: 2
+Ivol poly: 461.  Edge dual.  Endpoint: 828 (9,11,4)  Direction: 2  Reverse orient.
+Ivol poly: 462.  Edge dual.  Endpoint: 1673 (9,11,9)  Direction: 2
+Ivol poly: 463.  Edge dual.  Endpoint: 322 (10,11,1)  Direction: 2
+Ivol poly: 464.  Edge dual.  Endpoint: 829 (10,11,4)  Direction: 2  Reverse orient.
+Ivol poly: 465.  Edge dual.  Endpoint: 998 (10,11,5)  Direction: 2
+Ivol poly: 466.  Edge dual.  Endpoint: 323 (11,11,1)  Direction: 2
+Ivol poly: 467.  Edge dual.  Endpoint: 830 (11,11,4)  Direction: 2  Reverse orient.
+Ivol poly: 468.  Edge dual.  Endpoint: 999 (11,11,5)  Direction: 2
+Ivol poly: 469. Dual to vertex 184 (2,1,1).
+Ivol poly: 470. Dual to vertex 188 (6,1,1).
+Ivol poly: 471. Dual to vertex 189 (7,1,1).
+Ivol poly: 472. Dual to vertex 190 (8,1,1).
+Ivol poly: 473. Dual to vertex 197 (2,2,1).
+Ivol poly: 474. Dual to vertex 198 (3,2,1).
+Ivol poly: 475. Dual to vertex 199 (4,2,1).
+Ivol poly: 476. Dual to vertex 200 (5,2,1).
+Ivol poly: 477. Dual to vertex 201 (6,2,1).
+Ivol poly: 478. Dual to vertex 202 (7,2,1).
+Ivol poly: 479. Dual to vertex 203 (8,2,1).
+Ivol poly: 480. Dual to vertex 206 (11,2,1).
+Ivol poly: 481. Dual to vertex 210 (2,3,1).
+Ivol poly: 482. Dual to vertex 211 (3,3,1).
+Ivol poly: 483. Dual to vertex 212 (4,3,1).
+Ivol poly: 484. Dual to vertex 214 (6,3,1).
+Ivol poly: 485. Dual to vertex 216 (8,3,1).
+Ivol poly: 486. Dual to vertex 218 (10,3,1).
+Ivol poly: 487. Dual to vertex 219 (11,3,1).
+Ivol poly: 488. Dual to vertex 222 (1,4,1).
+Ivol poly: 489. Dual to vertex 223 (2,4,1).
+Ivol poly: 490. Dual to vertex 224 (3,4,1).
+Ivol poly: 491. Dual to vertex 225 (4,4,1).
+Ivol poly: 492. Dual to vertex 226 (5,4,1).
+Ivol poly: 493. Dual to vertex 227 (6,4,1).
+Ivol poly: 494. Dual to vertex 228 (7,4,1).
+Ivol poly: 495. Dual to vertex 229 (8,4,1).
+Ivol poly: 496. Dual to vertex 230 (9,4,1).
+Ivol poly: 497. Dual to vertex 231 (10,4,1).
+Ivol poly: 498. Dual to vertex 232 (11,4,1).
+Ivol poly: 499. Dual to vertex 235 (1,5,1).
+Ivol poly: 500. Dual to vertex 236 (2,5,1).
+Ivol poly: 501. Dual to vertex 238 (4,5,1).
+Ivol poly: 502. Dual to vertex 239 (5,5,1).
+Ivol poly: 503. Dual to vertex 240 (6,5,1).
+Ivol poly: 504. Dual to vertex 241 (7,5,1).
+Ivol poly: 505. Dual to vertex 242 (8,5,1).
+Ivol poly: 506. Dual to vertex 243 (9,5,1).
+Ivol poly: 507. Dual to vertex 244 (10,5,1).
+Ivol poly: 508. Dual to vertex 245 (11,5,1).
+Ivol poly: 509. Dual to vertex 248 (1,6,1).
+Ivol poly: 510. Dual to vertex 249 (2,6,1).
+Ivol poly: 511. Dual to vertex 251 (4,6,1).
+Ivol poly: 512. Dual to vertex 252 (5,6,1).
+Ivol poly: 513. Dual to vertex 253 (6,6,1).
+Ivol poly: 514. Dual to vertex 254 (7,6,1).
+Ivol poly: 515. Dual to vertex 255 (8,6,1).
+Ivol poly: 516. Dual to vertex 256 (9,6,1).  Reverse orient.
+Ivol poly: 517. Dual to vertex 257 (10,6,1).  Reverse orient.
+Ivol poly: 518. Dual to vertex 258 (11,6,1).  Reverse orient.
+Ivol poly: 519. Dual to vertex 261 (1,7,1).  Reverse orient.
+Ivol poly: 520. Dual to vertex 262 (2,7,1).  Reverse orient.
+Ivol poly: 521. Dual to vertex 264 (4,7,1).  Reverse orient.
+Ivol poly: 522. Dual to vertex 266 (6,7,1).  Reverse orient.
+Ivol poly: 523. Dual to vertex 268 (8,7,1).  Reverse orient.
+Ivol poly: 524. Dual to vertex 269 (9,7,1).  Reverse orient.
+Ivol poly: 525. Dual to vertex 270 (10,7,1).  Reverse orient.
+Ivol poly: 526. Dual to vertex 271 (11,7,1).  Reverse orient.
+Ivol poly: 527. Dual to vertex 274 (1,8,1).  Reverse orient.
+Ivol poly: 528. Dual to vertex 275 (2,8,1).  Reverse orient.
+Ivol poly: 529. Dual to vertex 276 (3,8,1).  Reverse orient.
+Ivol poly: 530. Dual to vertex 277 (4,8,1).  Reverse orient.
+Ivol poly: 531. Dual to vertex 278 (5,8,1).  Reverse orient.
+Ivol poly: 532. Dual to vertex 279 (6,8,1).  Reverse orient.
+Ivol poly: 533. Dual to vertex 281 (8,8,1).  Reverse orient.
+Ivol poly: 534. Dual to vertex 282 (9,8,1).  Reverse orient.
+Ivol poly: 535. Dual to vertex 283 (10,8,1).  Reverse orient.
+Ivol poly: 536. Dual to vertex 284 (11,8,1).  Reverse orient.
+Ivol poly: 537. Dual to vertex 290 (4,9,1).  Reverse orient.
+Ivol poly: 538. Dual to vertex 294 (8,9,1).  Reverse orient.
+Ivol poly: 539. Dual to vertex 300 (1,10,1).  Reverse orient.
+Ivol poly: 540. Dual to vertex 301 (2,10,1).  Reverse orient.
+Ivol poly: 541. Dual to vertex 302 (3,10,1).  Reverse orient.
+Ivol poly: 542. Dual to vertex 303 (4,10,1).  Reverse orient.
+Ivol poly: 543. Dual to vertex 304 (5,10,1).  Reverse orient.
+Ivol poly: 544. Dual to vertex 305 (6,10,1).  Reverse orient.
+Ivol poly: 545. Dual to vertex 306 (7,10,1).  Reverse orient.
+Ivol poly: 546. Dual to vertex 307 (8,10,1).  Reverse orient.
+Ivol poly: 547. Dual to vertex 316 (4,11,1).  Reverse orient.
+Ivol poly: 548. Dual to vertex 353 (2,1,2).  Reverse orient.
+Ivol poly: 549. Dual to vertex 355 (4,1,2).  Reverse orient.
+Ivol poly: 550. Dual to vertex 356 (5,1,2).  Reverse orient.
+Ivol poly: 551. Dual to vertex 357 (6,1,2).  Reverse orient.
+Ivol poly: 552. Dual to vertex 358 (7,1,2).  Reverse orient.
+Ivol poly: 553. Dual to vertex 359 (8,1,2).  Reverse orient.
+Ivol poly: 554. Dual to vertex 360 (9,1,2).  Reverse orient.
+Ivol poly: 555. Dual to vertex 361 (10,1,2).  Reverse orient.
+Ivol poly: 556. Dual to vertex 362 (11,1,2).  Reverse orient.
+Ivol poly: 557. Dual to vertex 366 (2,2,2).  Reverse orient.
+Ivol poly: 558. Dual to vertex 368 (4,2,2).  Reverse orient.
+Ivol poly: 559. Dual to vertex 369 (5,2,2).  Reverse orient.
+Ivol poly: 560. Dual to vertex 370 (6,2,2).  Reverse orient.
+Ivol poly: 561. Dual to vertex 371 (7,2,2).  Reverse orient.
+Ivol poly: 562. Dual to vertex 372 (8,2,2).  Reverse orient.
+Ivol poly: 563. Dual to vertex 373 (9,2,2).  Reverse orient.
+Ivol poly: 564. Dual to vertex 374 (10,2,2).  Reverse orient.
+Ivol poly: 565. Dual to vertex 375 (11,2,2).  Reverse orient.
+Ivol poly: 566. Dual to vertex 378 (1,3,2).  Reverse orient.
+Ivol poly: 567. Dual to vertex 379 (2,3,2).  Reverse orient.
+Ivol poly: 568. Dual to vertex 380 (3,3,2).  Reverse orient.
+Ivol poly: 569. Dual to vertex 381 (4,3,2).  Reverse orient.
+Ivol poly: 570. Dual to vertex 382 (5,3,2).  Reverse orient.
+Ivol poly: 571. Dual to vertex 383 (6,3,2).  Reverse orient.
+Ivol poly: 572. Dual to vertex 384 (7,3,2).  Reverse orient.
+Ivol poly: 573. Dual to vertex 385 (8,3,2).  Reverse orient.
+Ivol poly: 574. Dual to vertex 386 (9,3,2).  Reverse orient.
+Ivol poly: 575. Dual to vertex 387 (10,3,2).  Reverse orient.
+Ivol poly: 576. Dual to vertex 388 (11,3,2).  Reverse orient.
+Ivol poly: 577. Dual to vertex 391 (1,4,2).  Reverse orient.
+Ivol poly: 578. Dual to vertex 392 (2,4,2).  Reverse orient.
+Ivol poly: 579. Dual to vertex 393 (3,4,2).  Reverse orient.
+Ivol poly: 580. Dual to vertex 394 (4,4,2).  Reverse orient.
+Ivol poly: 581. Dual to vertex 395 (5,4,2).  Reverse orient.
+Ivol poly: 582. Dual to vertex 396 (6,4,2).  Reverse orient.
+Ivol poly: 583. Dual to vertex 397 (7,4,2).  Reverse orient.
+Ivol poly: 584. Dual to vertex 398 (8,4,2).  Reverse orient.
+Ivol poly: 585. Dual to vertex 399 (9,4,2).  Reverse orient.
+Ivol poly: 586. Dual to vertex 400 (10,4,2).  Reverse orient.
+Ivol poly: 587. Dual to vertex 401 (11,4,2).  Reverse orient.
+Ivol poly: 588. Dual to vertex 404 (1,5,2).  Reverse orient.
+Ivol poly: 589. Dual to vertex 405 (2,5,2).  Reverse orient.
+Ivol poly: 590. Dual to vertex 407 (4,5,2).  Reverse orient.
+Ivol poly: 591. Dual to vertex 408 (5,5,2).  Reverse orient.
+Ivol poly: 592. Dual to vertex 409 (6,5,2).  Reverse orient.
+Ivol poly: 593. Dual to vertex 410 (7,5,2).  Reverse orient.
+Ivol poly: 594. Dual to vertex 411 (8,5,2).  Reverse orient.
+Ivol poly: 595. Dual to vertex 412 (9,5,2).  Reverse orient.
+Ivol poly: 596. Dual to vertex 413 (10,5,2).  Reverse orient.
+Ivol poly: 597. Dual to vertex 414 (11,5,2).  Reverse orient.
+Ivol poly: 598. Dual to vertex 417 (1,6,2).  Reverse orient.
+Ivol poly: 599. Dual to vertex 418 (2,6,2).  Reverse orient.
+Ivol poly: 600. Dual to vertex 419 (3,6,2).  Reverse orient.
+Ivol poly: 601. Dual to vertex 420 (4,6,2).  Reverse orient.
+Ivol poly: 602. Dual to vertex 422 (6,6,2).  Reverse orient.
+Ivol poly: 603. Dual to vertex 423 (7,6,2).  Reverse orient.
+Ivol poly: 604. Dual to vertex 424 (8,6,2).  Reverse orient.
+Ivol poly: 605. Dual to vertex 425 (9,6,2).  Reverse orient.
+Ivol poly: 606. Dual to vertex 426 (10,6,2).  Reverse orient.
+Ivol poly: 607. Dual to vertex 427 (11,6,2).  Reverse orient.
+Ivol poly: 608. Dual to vertex 430 (1,7,2).  Reverse orient.
+Ivol poly: 609. Dual to vertex 431 (2,7,2).  Reverse orient.
+Ivol poly: 610. Dual to vertex 432 (3,7,2).  Reverse orient.
+Ivol poly: 611. Dual to vertex 433 (4,7,2).  Reverse orient.
+Ivol poly: 612. Dual to vertex 435 (6,7,2).  Reverse orient.
+Ivol poly: 613. Dual to vertex 436 (7,7,2).  Reverse orient.
+Ivol poly: 614. Dual to vertex 437 (8,7,2).  Reverse orient.
+Ivol poly: 615. Dual to vertex 438 (9,7,2).  Reverse orient.
+Ivol poly: 616. Dual to vertex 439 (10,7,2).  Reverse orient.
+Ivol poly: 617. Dual to vertex 440 (11,7,2).  Reverse orient.
+Ivol poly: 618. Dual to vertex 443 (1,8,2).  Reverse orient.
+Ivol poly: 619. Dual to vertex 444 (2,8,2).  Reverse orient.
+Ivol poly: 620. Dual to vertex 445 (3,8,2).  Reverse orient.
+Ivol poly: 621. Dual to vertex 446 (4,8,2).  Reverse orient.
+Ivol poly: 622. Dual to vertex 447 (5,8,2).  Reverse orient.
+Ivol poly: 623. Dual to vertex 448 (6,8,2).  Reverse orient.
+Ivol poly: 624. Dual to vertex 449 (7,8,2).  Reverse orient.
+Ivol poly: 625. Dual to vertex 450 (8,8,2).  Reverse orient.
+Ivol poly: 626. Dual to vertex 451 (9,8,2).  Reverse orient.
+Ivol poly: 627. Dual to vertex 452 (10,8,2).  Reverse orient.
+Ivol poly: 628. Dual to vertex 453 (11,8,2).  Reverse orient.
+Ivol poly: 629. Dual to vertex 459 (4,9,2).  Reverse orient.
+Ivol poly: 630. Dual to vertex 460 (5,9,2).  Reverse orient.
+Ivol poly: 631. Dual to vertex 461 (6,9,2).  Reverse orient.
+Ivol poly: 632. Dual to vertex 462 (7,9,2).  Reverse orient.
+Ivol poly: 633. Dual to vertex 463 (8,9,2).  Reverse orient.
+Ivol poly: 634. Dual to vertex 466 (11,9,2).  Reverse orient.
+Ivol poly: 635. Dual to vertex 469 (1,10,2).  Reverse orient.
+Ivol poly: 636. Dual to vertex 470 (2,10,2).  Reverse orient.
+Ivol poly: 637. Dual to vertex 471 (3,10,2).  Reverse orient.
+Ivol poly: 638. Dual to vertex 472 (4,10,2).  Reverse orient.
+Ivol poly: 639. Dual to vertex 473 (5,10,2).  Reverse orient.
+Ivol poly: 640. Dual to vertex 474 (6,10,2).  Reverse orient.
+Ivol poly: 641. Dual to vertex 475 (7,10,2).  Reverse orient.
+Ivol poly: 642. Dual to vertex 476 (8,10,2).  Reverse orient.
+Ivol poly: 643. Dual to vertex 477 (9,10,2).  Reverse orient.
+Ivol poly: 644. Dual to vertex 478 (10,10,2).  Reverse orient.
+Ivol poly: 645. Dual to vertex 479 (11,10,2).  Reverse orient.
+Ivol poly: 646. Dual to vertex 485 (4,11,2).  Reverse orient.
+Ivol poly: 647. Dual to vertex 487 (6,11,2).  Reverse orient.
+Ivol poly: 648. Dual to vertex 488 (7,11,2).  Reverse orient.
+Ivol poly: 649. Dual to vertex 489 (8,11,2).  Reverse orient.
+Ivol poly: 650. Dual to vertex 490 (9,11,2).  Reverse orient.
+Ivol poly: 651. Dual to vertex 491 (10,11,2).  Reverse orient.
+Ivol poly: 652. Dual to vertex 492 (11,11,2).  Reverse orient.
+Ivol poly: 653. Dual to vertex 522 (2,1,3).  Reverse orient.
+Ivol poly: 654. Dual to vertex 524 (4,1,3).  Reverse orient.
+Ivol poly: 655. Dual to vertex 526 (6,1,3).  Reverse orient.
+Ivol poly: 656. Dual to vertex 527 (7,1,3).  Reverse orient.
+Ivol poly: 657. Dual to vertex 528 (8,1,3).  Reverse orient.
+Ivol poly: 658. Dual to vertex 529 (9,1,3).  Reverse orient.
+Ivol poly: 659. Dual to vertex 530 (10,1,3).  Reverse orient.
+Ivol poly: 660. Dual to vertex 531 (11,1,3).  Reverse orient.
+Ivol poly: 661. Dual to vertex 534 (1,2,3).  Reverse orient.
+Ivol poly: 662. Dual to vertex 535 (2,2,3).  Reverse orient.
+Ivol poly: 663. Dual to vertex 537 (4,2,3).  Reverse orient.
+Ivol poly: 664. Dual to vertex 538 (5,2,3).  Reverse orient.
+Ivol poly: 665. Dual to vertex 539 (6,2,3).  Reverse orient.
+Ivol poly: 666. Dual to vertex 540 (7,2,3).  Reverse orient.
+Ivol poly: 667. Dual to vertex 541 (8,2,3).  Reverse orient.
+Ivol poly: 668. Dual to vertex 542 (9,2,3).  Reverse orient.
+Ivol poly: 669. Dual to vertex 543 (10,2,3).  Reverse orient.
+Ivol poly: 670. Dual to vertex 544 (11,2,3).  Reverse orient.
+Ivol poly: 671. Dual to vertex 547 (1,3,3).  Reverse orient.
+Ivol poly: 672. Dual to vertex 548 (2,3,3).  Reverse orient.
+Ivol poly: 673. Dual to vertex 550 (4,3,3).  Reverse orient.
+Ivol poly: 674. Dual to vertex 551 (5,3,3).  Reverse orient.
+Ivol poly: 675. Dual to vertex 552 (6,3,3).  Reverse orient.
+Ivol poly: 676. Dual to vertex 554 (8,3,3).  Reverse orient.
+Ivol poly: 677. Dual to vertex 555 (9,3,3).  Reverse orient.
+Ivol poly: 678. Dual to vertex 556 (10,3,3).  Reverse orient.
+Ivol poly: 679. Dual to vertex 560 (1,4,3).  Reverse orient.
+Ivol poly: 680. Dual to vertex 561 (2,4,3).  Reverse orient.
+Ivol poly: 681. Dual to vertex 562 (3,4,3).  Reverse orient.
+Ivol poly: 682. Dual to vertex 563 (4,4,3).  Reverse orient.
+Ivol poly: 683. Dual to vertex 564 (5,4,3).  Reverse orient.
+Ivol poly: 684. Dual to vertex 565 (6,4,3).  Reverse orient.
+Ivol poly: 685. Dual to vertex 566 (7,4,3).  Reverse orient.
+Ivol poly: 686. Dual to vertex 567 (8,4,3).  Reverse orient.
+Ivol poly: 687. Dual to vertex 568 (9,4,3).  Reverse orient.
+Ivol poly: 688. Dual to vertex 569 (10,4,3).  Reverse orient.
+Ivol poly: 689. Dual to vertex 574 (2,5,3).  Reverse orient.
+Ivol poly: 690. Dual to vertex 576 (4,5,3).  Reverse orient.
+Ivol poly: 691. Dual to vertex 578 (6,5,3).  Reverse orient.
+Ivol poly: 692. Dual to vertex 579 (7,5,3).  Reverse orient.
+Ivol poly: 693. Dual to vertex 580 (8,5,3).  Reverse orient.
+Ivol poly: 694. Dual to vertex 582 (10,5,3).  Reverse orient.
+Ivol poly: 695. Dual to vertex 586 (1,6,3).  Reverse orient.
+Ivol poly: 696. Dual to vertex 587 (2,6,3).  Reverse orient.
+Ivol poly: 697. Dual to vertex 588 (3,6,3).  Reverse orient.
+Ivol poly: 698. Dual to vertex 589 (4,6,3).  Reverse orient.
+Ivol poly: 699. Dual to vertex 592 (7,6,3).  Reverse orient.
+Ivol poly: 700. Dual to vertex 593 (8,6,3).  Reverse orient.
+Ivol poly: 701. Dual to vertex 594 (9,6,3).  Reverse orient.
+Ivol poly: 702. Dual to vertex 595 (10,6,3).  Reverse orient.
+Ivol poly: 703. Dual to vertex 600 (2,7,3).  Reverse orient.
+Ivol poly: 704. Dual to vertex 606 (8,7,3).  Reverse orient.
+Ivol poly: 705. Dual to vertex 607 (9,7,3).  Reverse orient.
+Ivol poly: 706. Dual to vertex 608 (10,7,3).  Reverse orient.
+Ivol poly: 707. Dual to vertex 612 (1,8,3).  Reverse orient.
+Ivol poly: 708. Dual to vertex 613 (2,8,3).  Reverse orient.
+Ivol poly: 709. Dual to vertex 618 (7,8,3).  Reverse orient.
+Ivol poly: 710. Dual to vertex 619 (8,8,3).  Reverse orient.
+Ivol poly: 711. Dual to vertex 620 (9,8,3).  Reverse orient.
+Ivol poly: 712. Dual to vertex 621 (10,8,3).  Reverse orient.
+Ivol poly: 713. Dual to vertex 622 (11,8,3).  Reverse orient.
+Ivol poly: 714. Dual to vertex 630 (6,9,3).  Reverse orient.
+Ivol poly: 715. Dual to vertex 631 (7,9,3).  Reverse orient.
+Ivol poly: 716. Dual to vertex 632 (8,9,3).  Reverse orient.
+Ivol poly: 717. Dual to vertex 634 (10,9,3).  Reverse orient.
+Ivol poly: 718. Dual to vertex 635 (11,9,3).  Reverse orient.
+Ivol poly: 719. Dual to vertex 638 (1,10,3).  Reverse orient.
+Ivol poly: 720. Dual to vertex 639 (2,10,3).  Reverse orient.
+Ivol poly: 721. Dual to vertex 640 (3,10,3).  Reverse orient.
+Ivol poly: 722. Dual to vertex 641 (4,10,3).  Reverse orient.
+Ivol poly: 723. Dual to vertex 643 (6,10,3).  Reverse orient.
+Ivol poly: 724. Dual to vertex 644 (7,10,3).  Reverse orient.
+Ivol poly: 725. Dual to vertex 645 (8,10,3).  Reverse orient.
+Ivol poly: 726. Dual to vertex 646 (9,10,3).  Reverse orient.
+Ivol poly: 727. Dual to vertex 647 (10,10,3).  Reverse orient.
+Ivol poly: 728. Dual to vertex 648 (11,10,3).  Reverse orient.
+Ivol poly: 729. Dual to vertex 654 (4,11,3).  Reverse orient.
+Ivol poly: 730. Dual to vertex 656 (6,11,3).  Reverse orient.
+Ivol poly: 731. Dual to vertex 660 (10,11,3).  Reverse orient.
+Ivol poly: 732. Dual to vertex 661 (11,11,3).  Reverse orient.
+Ivol poly: 733. Dual to vertex 690 (1,1,4).  Reverse orient.
+Ivol poly: 734. Dual to vertex 691 (2,1,4).  Reverse orient.
+Ivol poly: 735. Dual to vertex 693 (4,1,4).  Reverse orient.
+Ivol poly: 736. Dual to vertex 695 (6,1,4).  Reverse orient.
+Ivol poly: 737. Dual to vertex 696 (7,1,4).  Reverse orient.
+Ivol poly: 738. Dual to vertex 697 (8,1,4).  Reverse orient.
+Ivol poly: 739. Dual to vertex 698 (9,1,4).  Reverse orient.
+Ivol poly: 740. Dual to vertex 699 (10,1,4).  Reverse orient.
+Ivol poly: 741. Dual to vertex 700 (11,1,4).  Reverse orient.
+Ivol poly: 742. Dual to vertex 703 (1,2,4).  Reverse orient.
+Ivol poly: 743. Dual to vertex 704 (2,2,4).  Reverse orient.
+Ivol poly: 744. Dual to vertex 706 (4,2,4).  Reverse orient.
+Ivol poly: 745. Dual to vertex 708 (6,2,4).  Reverse orient.
+Ivol poly: 746. Dual to vertex 709 (7,2,4).  Reverse orient.
+Ivol poly: 747. Dual to vertex 710 (8,2,4).  Reverse orient.
+Ivol poly: 748. Dual to vertex 711 (9,2,4).  Reverse orient.
+Ivol poly: 749. Dual to vertex 712 (10,2,4).  Reverse orient.
+Ivol poly: 750. Dual to vertex 713 (11,2,4).  Reverse orient.
+Ivol poly: 751. Dual to vertex 716 (1,3,4).  Reverse orient.
+Ivol poly: 752. Dual to vertex 717 (2,3,4).  Reverse orient.
+Ivol poly: 753. Dual to vertex 718 (3,3,4).  Reverse orient.
+Ivol poly: 754. Dual to vertex 719 (4,3,4).  Reverse orient.
+Ivol poly: 755. Dual to vertex 720 (5,3,4).  Reverse orient.
+Ivol poly: 756. Dual to vertex 724 (9,3,4).  Reverse orient.
+Ivol poly: 757. Dual to vertex 725 (10,3,4).  Reverse orient.
+Ivol poly: 758. Dual to vertex 726 (11,3,4).  Reverse orient.
+Ivol poly: 759. Dual to vertex 729 (1,4,4).  Reverse orient.
+Ivol poly: 760. Dual to vertex 730 (2,4,4).  Reverse orient.
+Ivol poly: 761. Dual to vertex 731 (3,4,4).  Reverse orient.
+Ivol poly: 762. Dual to vertex 732 (4,4,4).  Reverse orient.
+Ivol poly: 763. Dual to vertex 733 (5,4,4).  Reverse orient.
+Ivol poly: 764. Dual to vertex 734 (6,4,4).  Reverse orient.
+Ivol poly: 765. Dual to vertex 736 (8,4,4).  Reverse orient.
+Ivol poly: 766. Dual to vertex 737 (9,4,4).  Reverse orient.
+Ivol poly: 767. Dual to vertex 738 (10,4,4).  Reverse orient.
+Ivol poly: 768. Dual to vertex 739 (11,4,4).  Reverse orient.
+Ivol poly: 769. Dual to vertex 742 (1,5,4).  Reverse orient.
+Ivol poly: 770. Dual to vertex 743 (2,5,4).  Reverse orient.
+Ivol poly: 771. Dual to vertex 744 (3,5,4).  Reverse orient.
+Ivol poly: 772. Dual to vertex 745 (4,5,4).  Reverse orient.
+Ivol poly: 773. Dual to vertex 746 (5,5,4).  Reverse orient.
+Ivol poly: 774. Dual to vertex 747 (6,5,4).  Reverse orient.
+Ivol poly: 775. Dual to vertex 748 (7,5,4).  Reverse orient.
+Ivol poly: 776. Dual to vertex 749 (8,5,4).  Reverse orient.
+Ivol poly: 777. Dual to vertex 750 (9,5,4).  Reverse orient.
+Ivol poly: 778. Dual to vertex 751 (10,5,4).  Reverse orient.
+Ivol poly: 779. Dual to vertex 755 (1,6,4).  Reverse orient.
+Ivol poly: 780. Dual to vertex 756 (2,6,4).  Reverse orient.
+Ivol poly: 781. Dual to vertex 757 (3,6,4).  Reverse orient.
+Ivol poly: 782. Dual to vertex 758 (4,6,4).  Reverse orient.
+Ivol poly: 783. Dual to vertex 759 (5,6,4).  Reverse orient.
+Ivol poly: 784. Dual to vertex 760 (6,6,4).  Reverse orient.
+Ivol poly: 785. Dual to vertex 761 (7,6,4).  Reverse orient.
+Ivol poly: 786. Dual to vertex 762 (8,6,4).  Reverse orient.
+Ivol poly: 787. Dual to vertex 763 (9,6,4).  Reverse orient.
+Ivol poly: 788. Dual to vertex 764 (10,6,4).  Reverse orient.
+Ivol poly: 789. Dual to vertex 765 (11,6,4).  Reverse orient.
+Ivol poly: 790. Dual to vertex 768 (1,7,4).  Reverse orient.
+Ivol poly: 791. Dual to vertex 769 (2,7,4).  Reverse orient.
+Ivol poly: 792. Dual to vertex 770 (3,7,4).  Reverse orient.
+Ivol poly: 793. Dual to vertex 771 (4,7,4).  Reverse orient.
+Ivol poly: 794. Dual to vertex 772 (5,7,4).  Reverse orient.
+Ivol poly: 795. Dual to vertex 773 (6,7,4).  Reverse orient.
+Ivol poly: 796. Dual to vertex 774 (7,7,4).  Reverse orient.
+Ivol poly: 797. Dual to vertex 775 (8,7,4).  Reverse orient.
+Ivol poly: 798. Dual to vertex 776 (9,7,4).  Reverse orient.
+Ivol poly: 799. Dual to vertex 777 (10,7,4).  Reverse orient.
+Ivol poly: 800. Dual to vertex 778 (11,7,4).  Reverse orient.
+Ivol poly: 801. Dual to vertex 781 (1,8,4).  Reverse orient.
+Ivol poly: 802. Dual to vertex 782 (2,8,4).  Reverse orient.
+Ivol poly: 803. Dual to vertex 783 (3,8,4).  Reverse orient.
+Ivol poly: 804. Dual to vertex 784 (4,8,4).  Reverse orient.
+Ivol poly: 805. Dual to vertex 785 (5,8,4).  Reverse orient.
+Ivol poly: 806. Dual to vertex 786 (6,8,4).  Reverse orient.
+Ivol poly: 807. Dual to vertex 787 (7,8,4).  Reverse orient.
+Ivol poly: 808. Dual to vertex 788 (8,8,4).  Reverse orient.
+Ivol poly: 809. Dual to vertex 789 (9,8,4).  Reverse orient.
+Ivol poly: 810. Dual to vertex 790 (10,8,4).  Reverse orient.
+Ivol poly: 811. Dual to vertex 791 (11,8,4).  Reverse orient.
+Ivol poly: 812. Dual to vertex 794 (1,9,4).  Reverse orient.
+Ivol poly: 813. Dual to vertex 795 (2,9,4).  Reverse orient.
+Ivol poly: 814. Dual to vertex 796 (3,9,4).  Reverse orient.
+Ivol poly: 815. Dual to vertex 800 (7,9,4).  Reverse orient.
+Ivol poly: 816. Dual to vertex 803 (10,9,4).  Reverse orient.
+Ivol poly: 817. Dual to vertex 804 (11,9,4).  Reverse orient.
+Ivol poly: 818. Dual to vertex 807 (1,10,4).  Reverse orient.
+Ivol poly: 819. Dual to vertex 808 (2,10,4).  Reverse orient.
+Ivol poly: 820. Dual to vertex 809 (3,10,4).  Reverse orient.
+Ivol poly: 821. Dual to vertex 810 (4,10,4).  Reverse orient.
+Ivol poly: 822. Dual to vertex 811 (5,10,4).  Reverse orient.
+Ivol poly: 823. Dual to vertex 812 (6,10,4).  Reverse orient.
+Ivol poly: 824. Dual to vertex 813 (7,10,4).  Reverse orient.
+Ivol poly: 825. Dual to vertex 814 (8,10,4).  Reverse orient.
+Ivol poly: 826. Dual to vertex 815 (9,10,4).  Reverse orient.
+Ivol poly: 827. Dual to vertex 816 (10,10,4).  Reverse orient.
+Ivol poly: 828. Dual to vertex 817 (11,10,4).  Reverse orient.
+Ivol poly: 829. Dual to vertex 820 (1,11,4).  Reverse orient.
+Ivol poly: 830. Dual to vertex 821 (2,11,4).  Reverse orient.
+Ivol poly: 831. Dual to vertex 822 (3,11,4).  Reverse orient.
+Ivol poly: 832. Dual to vertex 823 (4,11,4).  Reverse orient.
+Ivol poly: 833. Dual to vertex 824 (5,11,4).  Reverse orient.
+Ivol poly: 834. Dual to vertex 825 (6,11,4).  Reverse orient.
+Ivol poly: 835. Dual to vertex 826 (7,11,4).  Reverse orient.
+Ivol poly: 836. Dual to vertex 827 (8,11,4).  Reverse orient.
+Ivol poly: 837. Dual to vertex 828 (9,11,4).  Reverse orient.
+Ivol poly: 838. Dual to vertex 829 (10,11,4).  Reverse orient.
+Ivol poly: 839. Dual to vertex 830 (11,11,4).  Reverse orient.
+Ivol poly: 840. Dual to vertex 859 (1,1,5).  Reverse orient.
+Ivol poly: 841. Dual to vertex 860 (2,1,5).  Reverse orient.
+Ivol poly: 842. Dual to vertex 862 (4,1,5).  Reverse orient.
+Ivol poly: 843. Dual to vertex 864 (6,1,5).  Reverse orient.
+Ivol poly: 844. Dual to vertex 868 (10,1,5).  Reverse orient.
+Ivol poly: 845. Dual to vertex 869 (11,1,5).  Reverse orient.
+Ivol poly: 846. Dual to vertex 872 (1,2,5).  Reverse orient.
+Ivol poly: 847. Dual to vertex 873 (2,2,5).  Reverse orient.
+Ivol poly: 848. Dual to vertex 874 (3,2,5).  Reverse orient.
+Ivol poly: 849. Dual to vertex 875 (4,2,5).  Reverse orient.
+Ivol poly: 850. Dual to vertex 877 (6,2,5).  Reverse orient.
+Ivol poly: 851. Dual to vertex 878 (7,2,5).  Reverse orient.
+Ivol poly: 852. Dual to vertex 879 (8,2,5).  Reverse orient.
+Ivol poly: 853. Dual to vertex 880 (9,2,5).  Reverse orient.
+Ivol poly: 854. Dual to vertex 881 (10,2,5).  Reverse orient.
+Ivol poly: 855. Dual to vertex 882 (11,2,5).  Reverse orient.
+Ivol poly: 856. Dual to vertex 885 (1,3,5).  Reverse orient.
+Ivol poly: 857. Dual to vertex 886 (2,3,5).  Reverse orient.
+Ivol poly: 858. Dual to vertex 887 (3,3,5).  Reverse orient.
+Ivol poly: 859. Dual to vertex 888 (4,3,5).  Reverse orient.
+Ivol poly: 860. Dual to vertex 898 (1,4,5).  Reverse orient.
+Ivol poly: 861. Dual to vertex 899 (2,4,5).  Reverse orient.
+Ivol poly: 862. Dual to vertex 900 (3,4,5).  Reverse orient.
+Ivol poly: 863. Dual to vertex 901 (4,4,5).  Reverse orient.
+Ivol poly: 864. Dual to vertex 905 (8,4,5).  Reverse orient.
+Ivol poly: 865. Dual to vertex 906 (9,4,5).  Reverse orient.
+Ivol poly: 866. Dual to vertex 907 (10,4,5).  Reverse orient.
+Ivol poly: 867. Dual to vertex 908 (11,4,5).  Reverse orient.
+Ivol poly: 868. Dual to vertex 912 (2,5,5).  Reverse orient.
+Ivol poly: 869. Dual to vertex 914 (4,5,5).  Reverse orient.
+Ivol poly: 870. Dual to vertex 918 (8,5,5).  Reverse orient.
+Ivol poly: 871. Dual to vertex 924 (1,6,5).  Reverse orient.
+Ivol poly: 872. Dual to vertex 925 (2,6,5).  Reverse orient.
+Ivol poly: 873. Dual to vertex 926 (3,6,5).  Reverse orient.
+Ivol poly: 874. Dual to vertex 927 (4,6,5).  Reverse orient.
+Ivol poly: 875. Dual to vertex 930 (7,6,5).  Reverse orient.
+Ivol poly: 876. Dual to vertex 931 (8,6,5).  Reverse orient.
+Ivol poly: 877. Dual to vertex 932 (9,6,5).  Reverse orient.
+Ivol poly: 878. Dual to vertex 933 (10,6,5).  Reverse orient.
+Ivol poly: 879. Dual to vertex 934 (11,6,5).  Reverse orient.
+Ivol poly: 880. Dual to vertex 938 (2,7,5).  Reverse orient.
+Ivol poly: 881. Dual to vertex 939 (3,7,5).  Reverse orient.
+Ivol poly: 882. Dual to vertex 940 (4,7,5).  Reverse orient.
+Ivol poly: 883. Dual to vertex 942 (6,7,5).  Reverse orient.
+Ivol poly: 884. Dual to vertex 943 (7,7,5).  Reverse orient.
+Ivol poly: 885. Dual to vertex 944 (8,7,5).  Reverse orient.
+Ivol poly: 886. Dual to vertex 950 (1,8,5).  Reverse orient.
+Ivol poly: 887. Dual to vertex 951 (2,8,5).  Reverse orient.
+Ivol poly: 888. Dual to vertex 952 (3,8,5).  Reverse orient.
+Ivol poly: 889. Dual to vertex 953 (4,8,5).  Reverse orient.
+Ivol poly: 890. Dual to vertex 954 (5,8,5).  Reverse orient.
+Ivol poly: 891. Dual to vertex 955 (6,8,5).  Reverse orient.
+Ivol poly: 892. Dual to vertex 956 (7,8,5).  Reverse orient.
+Ivol poly: 893. Dual to vertex 957 (8,8,5).  Reverse orient.
+Ivol poly: 894. Dual to vertex 958 (9,8,5).  Reverse orient.
+Ivol poly: 895. Dual to vertex 959 (10,8,5).  Reverse orient.
+Ivol poly: 896. Dual to vertex 964 (2,9,5).  Reverse orient.
+Ivol poly: 897. Dual to vertex 965 (3,9,5).  Reverse orient.
+Ivol poly: 898. Dual to vertex 966 (4,9,5).  Reverse orient.
+Ivol poly: 899. Dual to vertex 972 (10,9,5).  Reverse orient.
+Ivol poly: 900. Dual to vertex 976 (1,10,5).  Reverse orient.
+Ivol poly: 901. Dual to vertex 977 (2,10,5).  Reverse orient.
+Ivol poly: 902. Dual to vertex 978 (3,10,5).  Reverse orient.
+Ivol poly: 903. Dual to vertex 979 (4,10,5).  Reverse orient.
+Ivol poly: 904. Dual to vertex 980 (5,10,5).  Reverse orient.
+Ivol poly: 905. Dual to vertex 981 (6,10,5).  Reverse orient.
+Ivol poly: 906. Dual to vertex 982 (7,10,5).  Reverse orient.
+Ivol poly: 907. Dual to vertex 985 (10,10,5).  Reverse orient.
+Ivol poly: 908. Dual to vertex 986 (11,10,5).  Reverse orient.
+Ivol poly: 909. Dual to vertex 989 (1,11,5).  Reverse orient.
+Ivol poly: 910. Dual to vertex 990 (2,11,5).  Reverse orient.
+Ivol poly: 911. Dual to vertex 992 (4,11,5).  Reverse orient.
+Ivol poly: 912. Dual to vertex 994 (6,11,5).  Reverse orient.
+Ivol poly: 913. Dual to vertex 995 (7,11,5).  Reverse orient.
+Ivol poly: 914. Dual to vertex 996 (8,11,5).  Reverse orient.
+Ivol poly: 915. Dual to vertex 1028 (1,1,6).  Reverse orient.
+Ivol poly: 916. Dual to vertex 1029 (2,1,6).  Reverse orient.
+Ivol poly: 917. Dual to vertex 1030 (3,1,6).  Reverse orient.
+Ivol poly: 918. Dual to vertex 1031 (4,1,6).  Reverse orient.
+Ivol poly: 919. Dual to vertex 1032 (5,1,6).  Reverse orient.
+Ivol poly: 920. Dual to vertex 1033 (6,1,6).  Reverse orient.
+Ivol poly: 921. Dual to vertex 1034 (7,1,6).  Reverse orient.
+Ivol poly: 922. Dual to vertex 1035 (8,1,6).  Reverse orient.
+Ivol poly: 923. Dual to vertex 1036 (9,1,6).  Reverse orient.
+Ivol poly: 924. Dual to vertex 1037 (10,1,6).  Reverse orient.
+Ivol poly: 925. Dual to vertex 1038 (11,1,6).  Reverse orient.
+Ivol poly: 926. Dual to vertex 1041 (1,2,6).  Reverse orient.
+Ivol poly: 927. Dual to vertex 1042 (2,2,6).  Reverse orient.
+Ivol poly: 928. Dual to vertex 1043 (3,2,6).  Reverse orient.
+Ivol poly: 929. Dual to vertex 1044 (4,2,6).  Reverse orient.
+Ivol poly: 930. Dual to vertex 1045 (5,2,6).  Reverse orient.
+Ivol poly: 931. Dual to vertex 1046 (6,2,6).  Reverse orient.
+Ivol poly: 932. Dual to vertex 1047 (7,2,6).  Reverse orient.
+Ivol poly: 933. Dual to vertex 1048 (8,2,6).  Reverse orient.
+Ivol poly: 934. Dual to vertex 1049 (9,2,6).  Reverse orient.
+Ivol poly: 935. Dual to vertex 1050 (10,2,6).  Reverse orient.
+Ivol poly: 936. Dual to vertex 1051 (11,2,6).  Reverse orient.
+Ivol poly: 937. Dual to vertex 1054 (1,3,6).  Reverse orient.
+Ivol poly: 938. Dual to vertex 1055 (2,3,6).  Reverse orient.
+Ivol poly: 939. Dual to vertex 1056 (3,3,6).  Reverse orient.
+Ivol poly: 940. Dual to vertex 1057 (4,3,6).  Reverse orient.
+Ivol poly: 941. Dual to vertex 1058 (5,3,6).  Reverse orient.
+Ivol poly: 942. Dual to vertex 1059 (6,3,6).  Reverse orient.
+Ivol poly: 943. Dual to vertex 1060 (7,3,6).  Reverse orient.
+Ivol poly: 944. Dual to vertex 1061 (8,3,6).  Reverse orient.
+Ivol poly: 945. Dual to vertex 1062 (9,3,6).  Reverse orient.
+Ivol poly: 946. Dual to vertex 1067 (1,4,6).  Reverse orient.
+Ivol poly: 947. Dual to vertex 1068 (2,4,6).  Reverse orient.
+Ivol poly: 948. Dual to vertex 1069 (3,4,6).  Reverse orient.
+Ivol poly: 949. Dual to vertex 1070 (4,4,6).  Reverse orient.
+Ivol poly: 950. Dual to vertex 1071 (5,4,6).  Reverse orient.
+Ivol poly: 951. Dual to vertex 1072 (6,4,6).  Reverse orient.
+Ivol poly: 952. Dual to vertex 1074 (8,4,6).  Reverse orient.
+Ivol poly: 953. Dual to vertex 1075 (9,4,6).  Reverse orient.
+Ivol poly: 954. Dual to vertex 1076 (10,4,6).  Reverse orient.
+Ivol poly: 955. Dual to vertex 1077 (11,4,6).  Reverse orient.
+Ivol poly: 956. Dual to vertex 1080 (1,5,6).  Reverse orient.
+Ivol poly: 957. Dual to vertex 1081 (2,5,6).  Reverse orient.
+Ivol poly: 958. Dual to vertex 1082 (3,5,6).  Reverse orient.
+Ivol poly: 959. Dual to vertex 1083 (4,5,6).  Reverse orient.
+Ivol poly: 960. Dual to vertex 1084 (5,5,6).  Reverse orient.
+Ivol poly: 961. Dual to vertex 1085 (6,5,6).  Reverse orient.
+Ivol poly: 962. Dual to vertex 1087 (8,5,6).  Reverse orient.
+Ivol poly: 963. Dual to vertex 1089 (10,5,6).  Reverse orient.
+Ivol poly: 964. Dual to vertex 1090 (11,5,6).  Reverse orient.
+Ivol poly: 965. Dual to vertex 1093 (1,6,6).  Reverse orient.
+Ivol poly: 966. Dual to vertex 1094 (2,6,6).  Reverse orient.
+Ivol poly: 967. Dual to vertex 1095 (3,6,6).  Reverse orient.
+Ivol poly: 968. Dual to vertex 1096 (4,6,6).  Reverse orient.
+Ivol poly: 969. Dual to vertex 1097 (5,6,6).  Reverse orient.
+Ivol poly: 970. Dual to vertex 1100 (8,6,6).  Reverse orient.
+Ivol poly: 971. Dual to vertex 1101 (9,6,6).  Reverse orient.
+Ivol poly: 972. Dual to vertex 1102 (10,6,6).  Reverse orient.
+Ivol poly: 973. Dual to vertex 1103 (11,6,6).  Reverse orient.
+Ivol poly: 974. Dual to vertex 1106 (1,7,6).  Reverse orient.
+Ivol poly: 975. Dual to vertex 1107 (2,7,6).  Reverse orient.
+Ivol poly: 976. Dual to vertex 1108 (3,7,6).  Reverse orient.
+Ivol poly: 977. Dual to vertex 1109 (4,7,6).  Reverse orient.
+Ivol poly: 978. Dual to vertex 1112 (7,7,6).  Reverse orient.
+Ivol poly: 979. Dual to vertex 1113 (8,7,6).  Reverse orient.
+Ivol poly: 980. Dual to vertex 1114 (9,7,6).  Reverse orient.
+Ivol poly: 981. Dual to vertex 1115 (10,7,6).  Reverse orient.
+Ivol poly: 982. Dual to vertex 1116 (11,7,6).  Reverse orient.
+Ivol poly: 983. Dual to vertex 1119 (1,8,6).  Reverse orient.
+Ivol poly: 984. Dual to vertex 1120 (2,8,6).  Reverse orient.
+Ivol poly: 985. Dual to vertex 1121 (3,8,6).  Reverse orient.
+Ivol poly: 986. Dual to vertex 1122 (4,8,6).  Reverse orient.
+Ivol poly: 987. Dual to vertex 1123 (5,8,6).  Reverse orient.
+Ivol poly: 988. Dual to vertex 1124 (6,8,6).  Reverse orient.
+Ivol poly: 989. Dual to vertex 1125 (7,8,6).  Reverse orient.
+Ivol poly: 990. Dual to vertex 1126 (8,8,6).  Reverse orient.
+Ivol poly: 991. Dual to vertex 1127 (9,8,6).  Reverse orient.
+Ivol poly: 992. Dual to vertex 1128 (10,8,6).  Reverse orient.
+Ivol poly: 993. Dual to vertex 1129 (11,8,6).  Reverse orient.
+Ivol poly: 994. Dual to vertex 1132 (1,9,6).  Reverse orient.
+Ivol poly: 995. Dual to vertex 1133 (2,9,6).  Reverse orient.
+Ivol poly: 996. Dual to vertex 1134 (3,9,6).  Reverse orient.
+Ivol poly: 997. Dual to vertex 1135 (4,9,6).  Reverse orient.
+Ivol poly: 998. Dual to vertex 1138 (7,9,6).  Reverse orient.
+Ivol poly: 999. Dual to vertex 1139 (8,9,6).  Reverse orient.
+Ivol poly: 1000. Dual to vertex 1140 (9,9,6).  Reverse orient.
+Ivol poly: 1001. Dual to vertex 1141 (10,9,6).  Reverse orient.
+Ivol poly: 1002. Dual to vertex 1142 (11,9,6).  Reverse orient.
+Ivol poly: 1003. Dual to vertex 1145 (1,10,6).  Reverse orient.
+Ivol poly: 1004. Dual to vertex 1146 (2,10,6).  Reverse orient.
+Ivol poly: 1005. Dual to vertex 1147 (3,10,6).  Reverse orient.
+Ivol poly: 1006. Dual to vertex 1148 (4,10,6).  Reverse orient.
+Ivol poly: 1007. Dual to vertex 1149 (5,10,6).  Reverse orient.
+Ivol poly: 1008. Dual to vertex 1150 (6,10,6).  Reverse orient.
+Ivol poly: 1009. Dual to vertex 1151 (7,10,6).  Reverse orient.
+Ivol poly: 1010. Dual to vertex 1152 (8,10,6).  Reverse orient.
+Ivol poly: 1011. Dual to vertex 1153 (9,10,6).  Reverse orient.
+Ivol poly: 1012. Dual to vertex 1154 (10,10,6).  Reverse orient.
+Ivol poly: 1013. Dual to vertex 1155 (11,10,6).  Reverse orient.
+Ivol poly: 1014. Dual to vertex 1158 (1,11,6).  Reverse orient.
+Ivol poly: 1015. Dual to vertex 1159 (2,11,6).  Reverse orient.
+Ivol poly: 1016. Dual to vertex 1161 (4,11,6).  Reverse orient.
+Ivol poly: 1017. Dual to vertex 1162 (5,11,6).  Reverse orient.
+Ivol poly: 1018. Dual to vertex 1163 (6,11,6).  Reverse orient.
+Ivol poly: 1019. Dual to vertex 1164 (7,11,6).  Reverse orient.
+Ivol poly: 1020. Dual to vertex 1165 (8,11,6).  Reverse orient.
+Ivol poly: 1021. Dual to vertex 1167 (10,11,6).  Reverse orient.
+Ivol poly: 1022. Dual to vertex 1168 (11,11,6).  Reverse orient.
+Ivol poly: 1023. Dual to vertex 1198 (2,1,7).  Reverse orient.
+Ivol poly: 1024. Dual to vertex 1200 (4,1,7).  Reverse orient.
+Ivol poly: 1025. Dual to vertex 1201 (5,1,7).  Reverse orient.
+Ivol poly: 1026. Dual to vertex 1202 (6,1,7).  Reverse orient.
+Ivol poly: 1027. Dual to vertex 1204 (8,1,7).  Reverse orient.
+Ivol poly: 1028. Dual to vertex 1205 (9,1,7).  Reverse orient.
+Ivol poly: 1029. Dual to vertex 1206 (10,1,7).  Reverse orient.
+Ivol poly: 1030. Dual to vertex 1207 (11,1,7).  Reverse orient.
+Ivol poly: 1031. Dual to vertex 1210 (1,2,7).  Reverse orient.
+Ivol poly: 1032. Dual to vertex 1211 (2,2,7).  Reverse orient.
+Ivol poly: 1033. Dual to vertex 1212 (3,2,7).  Reverse orient.
+Ivol poly: 1034. Dual to vertex 1213 (4,2,7).  Reverse orient.
+Ivol poly: 1035. Dual to vertex 1214 (5,2,7).  Reverse orient.
+Ivol poly: 1036. Dual to vertex 1215 (6,2,7).  Reverse orient.
+Ivol poly: 1037. Dual to vertex 1216 (7,2,7).  Reverse orient.
+Ivol poly: 1038. Dual to vertex 1217 (8,2,7).  Reverse orient.
+Ivol poly: 1039. Dual to vertex 1218 (9,2,7).  Reverse orient.
+Ivol poly: 1040. Dual to vertex 1219 (10,2,7).  Reverse orient.
+Ivol poly: 1041. Dual to vertex 1220 (11,2,7).  Reverse orient.
+Ivol poly: 1042. Dual to vertex 1223 (1,3,7).  Reverse orient.
+Ivol poly: 1043. Dual to vertex 1224 (2,3,7).  Reverse orient.
+Ivol poly: 1044. Dual to vertex 1225 (3,3,7).  Reverse orient.
+Ivol poly: 1045. Dual to vertex 1226 (4,3,7).  Reverse orient.
+Ivol poly: 1046. Dual to vertex 1227 (5,3,7).  Reverse orient.
+Ivol poly: 1047. Dual to vertex 1228 (6,3,7).  Reverse orient.
+Ivol poly: 1048. Dual to vertex 1229 (7,3,7).  Reverse orient.
+Ivol poly: 1049. Dual to vertex 1230 (8,3,7).  Reverse orient.
+Ivol poly: 1050. Dual to vertex 1231 (9,3,7).  Reverse orient.
+Ivol poly: 1051. Dual to vertex 1232 (10,3,7).  Reverse orient.
+Ivol poly: 1052. Dual to vertex 1236 (1,4,7).  Reverse orient.
+Ivol poly: 1053. Dual to vertex 1237 (2,4,7).  Reverse orient.
+Ivol poly: 1054. Dual to vertex 1238 (3,4,7).  Reverse orient.
+Ivol poly: 1055. Dual to vertex 1239 (4,4,7).  Reverse orient.
+Ivol poly: 1056. Dual to vertex 1240 (5,4,7).  Reverse orient.
+Ivol poly: 1057. Dual to vertex 1241 (6,4,7).  Reverse orient.
+Ivol poly: 1058. Dual to vertex 1242 (7,4,7).  Reverse orient.
+Ivol poly: 1059. Dual to vertex 1243 (8,4,7).  Reverse orient.
+Ivol poly: 1060. Dual to vertex 1244 (9,4,7).  Reverse orient.
+Ivol poly: 1061. Dual to vertex 1245 (10,4,7).  Reverse orient.
+Ivol poly: 1062. Dual to vertex 1250 (2,5,7).  Reverse orient.
+Ivol poly: 1063. Dual to vertex 1251 (3,5,7).  Reverse orient.
+Ivol poly: 1064. Dual to vertex 1252 (4,5,7).  Reverse orient.
+Ivol poly: 1065. Dual to vertex 1254 (6,5,7).  Reverse orient.
+Ivol poly: 1066. Dual to vertex 1256 (8,5,7).  Reverse orient.
+Ivol poly: 1067. Dual to vertex 1258 (10,5,7).  Reverse orient.
+Ivol poly: 1068. Dual to vertex 1262 (1,6,7).  Reverse orient.
+Ivol poly: 1069. Dual to vertex 1263 (2,6,7).  Reverse orient.
+Ivol poly: 1070. Dual to vertex 1264 (3,6,7).  Reverse orient.
+Ivol poly: 1071. Dual to vertex 1265 (4,6,7).  Reverse orient.
+Ivol poly: 1072. Dual to vertex 1266 (5,6,7).  Reverse orient.
+Ivol poly: 1073. Dual to vertex 1267 (6,6,7).  Reverse orient.
+Ivol poly: 1074. Dual to vertex 1269 (8,6,7).  Reverse orient.
+Ivol poly: 1075. Dual to vertex 1270 (9,6,7).  Reverse orient.
+Ivol poly: 1076. Dual to vertex 1271 (10,6,7).  Reverse orient.
+Ivol poly: 1077. Dual to vertex 1272 (11,6,7).  Reverse orient.
+Ivol poly: 1078. Dual to vertex 1276 (2,7,7).  Reverse orient.
+Ivol poly: 1079. Dual to vertex 1277 (3,7,7).  Reverse orient.
+Ivol poly: 1080. Dual to vertex 1278 (4,7,7).  Reverse orient.
+Ivol poly: 1081. Dual to vertex 1282 (8,7,7).  Reverse orient.
+Ivol poly: 1082. Dual to vertex 1283 (9,7,7).  Reverse orient.
+Ivol poly: 1083. Dual to vertex 1284 (10,7,7).  Reverse orient.
+Ivol poly: 1084. Dual to vertex 1288 (1,8,7).  Reverse orient.
+Ivol poly: 1085. Dual to vertex 1289 (2,8,7).  Reverse orient.
+Ivol poly: 1086. Dual to vertex 1290 (3,8,7).  Reverse orient.
+Ivol poly: 1087. Dual to vertex 1291 (4,8,7).  Reverse orient.
+Ivol poly: 1088. Dual to vertex 1292 (5,8,7).  Reverse orient.
+Ivol poly: 1089. Dual to vertex 1293 (6,8,7).  Reverse orient.
+Ivol poly: 1090. Dual to vertex 1294 (7,8,7).  Reverse orient.
+Ivol poly: 1091. Dual to vertex 1295 (8,8,7).  Reverse orient.
+Ivol poly: 1092. Dual to vertex 1296 (9,8,7).  Reverse orient.
+Ivol poly: 1093. Dual to vertex 1297 (10,8,7).  Reverse orient.
+Ivol poly: 1094. Dual to vertex 1298 (11,8,7).  Reverse orient.
+Ivol poly: 1095. Dual to vertex 1301 (1,9,7).  Reverse orient.
+Ivol poly: 1096. Dual to vertex 1302 (2,9,7).  Reverse orient.
+Ivol poly: 1097. Dual to vertex 1303 (3,9,7).  Reverse orient.
+Ivol poly: 1098. Dual to vertex 1304 (4,9,7).  Reverse orient.
+Ivol poly: 1099. Dual to vertex 1306 (6,9,7).  Reverse orient.
+Ivol poly: 1100. Dual to vertex 1307 (7,9,7).  Reverse orient.
+Ivol poly: 1101. Dual to vertex 1308 (8,9,7).  Reverse orient.
+Ivol poly: 1102. Dual to vertex 1310 (10,9,7).  Reverse orient.
+Ivol poly: 1103. Dual to vertex 1311 (11,9,7).  Reverse orient.
+Ivol poly: 1104. Dual to vertex 1314 (1,10,7).  Reverse orient.
+Ivol poly: 1105. Dual to vertex 1315 (2,10,7).  Reverse orient.
+Ivol poly: 1106. Dual to vertex 1316 (3,10,7).  Reverse orient.
+Ivol poly: 1107. Dual to vertex 1319 (6,10,7).  Reverse orient.
+Ivol poly: 1108. Dual to vertex 1320 (7,10,7).  Reverse orient.
+Ivol poly: 1109. Dual to vertex 1321 (8,10,7).  Reverse orient.
+Ivol poly: 1110. Dual to vertex 1322 (9,10,7).  Reverse orient.
+Ivol poly: 1111. Dual to vertex 1323 (10,10,7).  Reverse orient.
+Ivol poly: 1112. Dual to vertex 1324 (11,10,7).  Reverse orient.
+Ivol poly: 1113. Dual to vertex 1328 (2,11,7).  Reverse orient.
+Ivol poly: 1114. Dual to vertex 1332 (6,11,7).  Reverse orient.
+Ivol poly: 1115. Dual to vertex 1333 (7,11,7).  Reverse orient.
+Ivol poly: 1116. Dual to vertex 1334 (8,11,7).  Reverse orient.
+Ivol poly: 1117. Dual to vertex 1336 (10,11,7).  Reverse orient.
+Ivol poly: 1118. Dual to vertex 1367 (2,1,8).  Reverse orient.
+Ivol poly: 1119. Dual to vertex 1369 (4,1,8).  Reverse orient.
+Ivol poly: 1120. Dual to vertex 1370 (5,1,8).  Reverse orient.
+Ivol poly: 1121. Dual to vertex 1371 (6,1,8).  Reverse orient.
+Ivol poly: 1122. Dual to vertex 1373 (8,1,8).  Reverse orient.
+Ivol poly: 1123. Dual to vertex 1374 (9,1,8).  Reverse orient.
+Ivol poly: 1124. Dual to vertex 1375 (10,1,8).  Reverse orient.
+Ivol poly: 1125. Dual to vertex 1376 (11,1,8).  Reverse orient.
+Ivol poly: 1126. Dual to vertex 1379 (1,2,8).  Reverse orient.
+Ivol poly: 1127. Dual to vertex 1380 (2,2,8).  Reverse orient.
+Ivol poly: 1128. Dual to vertex 1382 (4,2,8).  Reverse orient.
+Ivol poly: 1129. Dual to vertex 1383 (5,2,8).  Reverse orient.
+Ivol poly: 1130. Dual to vertex 1384 (6,2,8).  Reverse orient.
+Ivol poly: 1131. Dual to vertex 1385 (7,2,8).  Reverse orient.
+Ivol poly: 1132. Dual to vertex 1386 (8,2,8).  Reverse orient.
+Ivol poly: 1133. Dual to vertex 1387 (9,2,8).  Reverse orient.
+Ivol poly: 1134. Dual to vertex 1388 (10,2,8).  Reverse orient.
+Ivol poly: 1135. Dual to vertex 1392 (1,3,8).  Reverse orient.
+Ivol poly: 1136. Dual to vertex 1393 (2,3,8).  Reverse orient.
+Ivol poly: 1137. Dual to vertex 1394 (3,3,8).  Reverse orient.
+Ivol poly: 1138. Dual to vertex 1395 (4,3,8).  Reverse orient.
+Ivol poly: 1139. Dual to vertex 1396 (5,3,8).  Reverse orient.
+Ivol poly: 1140. Dual to vertex 1397 (6,3,8).  Reverse orient.
+Ivol poly: 1141. Dual to vertex 1398 (7,3,8).  Reverse orient.
+Ivol poly: 1142. Dual to vertex 1399 (8,3,8).  Reverse orient.
+Ivol poly: 1143. Dual to vertex 1400 (9,3,8).  Reverse orient.
+Ivol poly: 1144. Dual to vertex 1401 (10,3,8).  Reverse orient.
+Ivol poly: 1145. Dual to vertex 1405 (1,4,8).  Reverse orient.
+Ivol poly: 1146. Dual to vertex 1406 (2,4,8).  Reverse orient.
+Ivol poly: 1147. Dual to vertex 1407 (3,4,8).  Reverse orient.
+Ivol poly: 1148. Dual to vertex 1408 (4,4,8).  Reverse orient.
+Ivol poly: 1149. Dual to vertex 1409 (5,4,8).  Reverse orient.
+Ivol poly: 1150. Dual to vertex 1410 (6,4,8).  Reverse orient.
+Ivol poly: 1151. Dual to vertex 1411 (7,4,8).  Reverse orient.
+Ivol poly: 1152. Dual to vertex 1412 (8,4,8).  Reverse orient.
+Ivol poly: 1153. Dual to vertex 1413 (9,4,8).  Reverse orient.
+Ivol poly: 1154. Dual to vertex 1414 (10,4,8).  Reverse orient.
+Ivol poly: 1155. Dual to vertex 1415 (11,4,8).  Reverse orient.
+Ivol poly: 1156. Dual to vertex 1419 (2,5,8).  Reverse orient.
+Ivol poly: 1157. Dual to vertex 1420 (3,5,8).  Reverse orient.
+Ivol poly: 1158. Dual to vertex 1421 (4,5,8).  Reverse orient.
+Ivol poly: 1159. Dual to vertex 1423 (6,5,8).  Reverse orient.
+Ivol poly: 1160. Dual to vertex 1424 (7,5,8).  Reverse orient.
+Ivol poly: 1161. Dual to vertex 1425 (8,5,8).  Reverse orient.
+Ivol poly: 1162. Dual to vertex 1426 (9,5,8).  Reverse orient.
+Ivol poly: 1163. Dual to vertex 1427 (10,5,8).  Reverse orient.
+Ivol poly: 1164. Dual to vertex 1428 (11,5,8).  Reverse orient.
+Ivol poly: 1165. Dual to vertex 1431 (1,6,8).  Reverse orient.
+Ivol poly: 1166. Dual to vertex 1432 (2,6,8).  Reverse orient.
+Ivol poly: 1167. Dual to vertex 1433 (3,6,8).  Reverse orient.
+Ivol poly: 1168. Dual to vertex 1434 (4,6,8).  Reverse orient.
+Ivol poly: 1169. Dual to vertex 1435 (5,6,8).  Reverse orient.
+Ivol poly: 1170. Dual to vertex 1436 (6,6,8).  Reverse orient.
+Ivol poly: 1171. Dual to vertex 1437 (7,6,8).  Reverse orient.
+Ivol poly: 1172. Dual to vertex 1438 (8,6,8).  Reverse orient.
+Ivol poly: 1173. Dual to vertex 1439 (9,6,8).  Reverse orient.
+Ivol poly: 1174. Dual to vertex 1440 (10,6,8).  Reverse orient.
+Ivol poly: 1175. Dual to vertex 1441 (11,6,8).  Reverse orient.
+Ivol poly: 1176. Dual to vertex 1444 (1,7,8).  Reverse orient.
+Ivol poly: 1177. Dual to vertex 1445 (2,7,8).  Reverse orient.
+Ivol poly: 1178. Dual to vertex 1446 (3,7,8).  Reverse orient.
+Ivol poly: 1179. Dual to vertex 1447 (4,7,8).  Reverse orient.
+Ivol poly: 1180. Dual to vertex 1448 (5,7,8).  Reverse orient.
+Ivol poly: 1181. Dual to vertex 1452 (9,7,8).  Reverse orient.
+Ivol poly: 1182. Dual to vertex 1453 (10,7,8).  Reverse orient.
+Ivol poly: 1183. Dual to vertex 1454 (11,7,8).  Reverse orient.
+Ivol poly: 1184. Dual to vertex 1457 (1,8,8).  Reverse orient.
+Ivol poly: 1185. Dual to vertex 1458 (2,8,8).  Reverse orient.
+Ivol poly: 1186. Dual to vertex 1459 (3,8,8).  Reverse orient.
+Ivol poly: 1187. Dual to vertex 1460 (4,8,8).  Reverse orient.
+Ivol poly: 1188. Dual to vertex 1461 (5,8,8).  Reverse orient.
+Ivol poly: 1189. Dual to vertex 1462 (6,8,8).  Reverse orient.
+Ivol poly: 1190. Dual to vertex 1465 (9,8,8).  Reverse orient.
+Ivol poly: 1191. Dual to vertex 1466 (10,8,8).  Reverse orient.
+Ivol poly: 1192. Dual to vertex 1467 (11,8,8).  Reverse orient.
+Ivol poly: 1193. Dual to vertex 1470 (1,9,8).  Reverse orient.
+Ivol poly: 1194. Dual to vertex 1471 (2,9,8).  Reverse orient.
+Ivol poly: 1195. Dual to vertex 1472 (3,9,8).  Reverse orient.
+Ivol poly: 1196. Dual to vertex 1473 (4,9,8).  Reverse orient.
+Ivol poly: 1197. Dual to vertex 1474 (5,9,8).  Reverse orient.
+Ivol poly: 1198. Dual to vertex 1475 (6,9,8).  Reverse orient.
+Ivol poly: 1199. Dual to vertex 1476 (7,9,8).  Reverse orient.
+Ivol poly: 1200. Dual to vertex 1477 (8,9,8).  Reverse orient.
+Ivol poly: 1201. Dual to vertex 1478 (9,9,8).  Reverse orient.
+Ivol poly: 1202. Dual to vertex 1479 (10,9,8).  Reverse orient.
+Ivol poly: 1203. Dual to vertex 1480 (11,9,8).  Reverse orient.
+Ivol poly: 1204. Dual to vertex 1483 (1,10,8).  Reverse orient.
+Ivol poly: 1205. Dual to vertex 1484 (2,10,8).  Reverse orient.
+Ivol poly: 1206. Dual to vertex 1485 (3,10,8).  Reverse orient.
+Ivol poly: 1207. Dual to vertex 1486 (4,10,8).  Reverse orient.
+Ivol poly: 1208. Dual to vertex 1487 (5,10,8).  Reverse orient.
+Ivol poly: 1209. Dual to vertex 1488 (6,10,8).  Reverse orient.
+Ivol poly: 1210. Dual to vertex 1489 (7,10,8).  Reverse orient.
+Ivol poly: 1211. Dual to vertex 1490 (8,10,8).  Reverse orient.
+Ivol poly: 1212. Dual to vertex 1491 (9,10,8).  Reverse orient.
+Ivol poly: 1213. Dual to vertex 1492 (10,10,8).  Reverse orient.
+Ivol poly: 1214. Dual to vertex 1493 (11,10,8).  Reverse orient.
+Ivol poly: 1215. Dual to vertex 1497 (2,11,8).  Reverse orient.
+Ivol poly: 1216. Dual to vertex 1498 (3,11,8).  Reverse orient.
+Ivol poly: 1217. Dual to vertex 1502 (7,11,8).  Reverse orient.
+Ivol poly: 1218. Dual to vertex 1505 (10,11,8).  Reverse orient.
+Ivol poly: 1219. Dual to vertex 1506 (11,11,8).  Reverse orient.
+Ivol poly: 1220. Dual to vertex 1536 (2,1,9).  Reverse orient.
+Ivol poly: 1221. Dual to vertex 1538 (4,1,9).  Reverse orient.
+Ivol poly: 1222. Dual to vertex 1539 (5,1,9).  Reverse orient.
+Ivol poly: 1223. Dual to vertex 1540 (6,1,9).  Reverse orient.
+Ivol poly: 1224. Dual to vertex 1542 (8,1,9).  Reverse orient.
+Ivol poly: 1225. Dual to vertex 1543 (9,1,9).  Reverse orient.
+Ivol poly: 1226. Dual to vertex 1544 (10,1,9).  Reverse orient.
+Ivol poly: 1227. Dual to vertex 1548 (1,2,9).  Reverse orient.
+Ivol poly: 1228. Dual to vertex 1549 (2,2,9).  Reverse orient.
+Ivol poly: 1229. Dual to vertex 1552 (5,2,9).  Reverse orient.
+Ivol poly: 1230. Dual to vertex 1553 (6,2,9).  Reverse orient.
+Ivol poly: 1231. Dual to vertex 1554 (7,2,9).  Reverse orient.
+Ivol poly: 1232. Dual to vertex 1555 (8,2,9).  Reverse orient.
+Ivol poly: 1233. Dual to vertex 1556 (9,2,9).  Reverse orient.
+Ivol poly: 1234. Dual to vertex 1557 (10,2,9).  Reverse orient.
+Ivol poly: 1235. Dual to vertex 1566 (6,3,9).  Reverse orient.
+Ivol poly: 1236. Dual to vertex 1568 (8,3,9).  Reverse orient.
+Ivol poly: 1237. Dual to vertex 1569 (9,3,9).  Reverse orient.
+Ivol poly: 1238. Dual to vertex 1570 (10,3,9).  Reverse orient.
+Ivol poly: 1239. Dual to vertex 1574 (1,4,9).  Reverse orient.
+Ivol poly: 1240. Dual to vertex 1575 (2,4,9).  Reverse orient.
+Ivol poly: 1241. Dual to vertex 1576 (3,4,9).  Reverse orient.
+Ivol poly: 1242. Dual to vertex 1577 (4,4,9).  Reverse orient.
+Ivol poly: 1243. Dual to vertex 1578 (5,4,9).  Reverse orient.
+Ivol poly: 1244. Dual to vertex 1579 (6,4,9).  Reverse orient.
+Ivol poly: 1245. Dual to vertex 1581 (8,4,9).  Reverse orient.
+Ivol poly: 1246. Dual to vertex 1582 (9,4,9).  Reverse orient.
+Ivol poly: 1247. Dual to vertex 1583 (10,4,9).  Reverse orient.
+Ivol poly: 1248. Dual to vertex 1584 (11,4,9).  Reverse orient.
+Ivol poly: 1249. Dual to vertex 1588 (2,5,9).  Reverse orient.
+Ivol poly: 1250. Dual to vertex 1589 (3,5,9).  Reverse orient.
+Ivol poly: 1251. Dual to vertex 1590 (4,5,9).  Reverse orient.
+Ivol poly: 1252. Dual to vertex 1594 (8,5,9).  Reverse orient.
+Ivol poly: 1253. Dual to vertex 1595 (9,5,9).  Reverse orient.
+Ivol poly: 1254. Dual to vertex 1596 (10,5,9).  Reverse orient.
+Ivol poly: 1255. Dual to vertex 1600 (1,6,9).  Reverse orient.
+Ivol poly: 1256. Dual to vertex 1601 (2,6,9).  Reverse orient.
+Ivol poly: 1257. Dual to vertex 1602 (3,6,9).  Reverse orient.
+Ivol poly: 1258. Dual to vertex 1603 (4,6,9).  Reverse orient.
+Ivol poly: 1259. Dual to vertex 1604 (5,6,9).  Reverse orient.
+Ivol poly: 1260. Dual to vertex 1605 (6,6,9).  Reverse orient.
+Ivol poly: 1261. Dual to vertex 1606 (7,6,9).  Reverse orient.
+Ivol poly: 1262. Dual to vertex 1607 (8,6,9).  Reverse orient.
+Ivol poly: 1263. Dual to vertex 1608 (9,6,9).  Reverse orient.
+Ivol poly: 1264. Dual to vertex 1609 (10,6,9).  Reverse orient.
+Ivol poly: 1265. Dual to vertex 1610 (11,6,9).  Reverse orient.
+Ivol poly: 1266. Dual to vertex 1613 (1,7,9).  Reverse orient.
+Ivol poly: 1267. Dual to vertex 1614 (2,7,9).  Reverse orient.
+Ivol poly: 1268. Dual to vertex 1616 (4,7,9).  Reverse orient.
+Ivol poly: 1269. Dual to vertex 1617 (5,7,9).  Reverse orient.
+Ivol poly: 1270. Dual to vertex 1618 (6,7,9).  Reverse orient.
+Ivol poly: 1271. Dual to vertex 1622 (10,7,9).  Reverse orient.
+Ivol poly: 1272. Dual to vertex 1623 (11,7,9).  Reverse orient.
+Ivol poly: 1273. Dual to vertex 1626 (1,8,9).  Reverse orient.
+Ivol poly: 1274. Dual to vertex 1627 (2,8,9).  Reverse orient.
+Ivol poly: 1275. Dual to vertex 1628 (3,8,9).  Reverse orient.
+Ivol poly: 1276. Dual to vertex 1629 (4,8,9).  Reverse orient.
+Ivol poly: 1277. Dual to vertex 1630 (5,8,9).  Reverse orient.
+Ivol poly: 1278. Dual to vertex 1634 (9,8,9).  Reverse orient.
+Ivol poly: 1279. Dual to vertex 1635 (10,8,9).  Reverse orient.
+Ivol poly: 1280. Dual to vertex 1636 (11,8,9).  Reverse orient.
+Ivol poly: 1281. Dual to vertex 1639 (1,9,9).  Reverse orient.
+Ivol poly: 1282. Dual to vertex 1640 (2,9,9).  Reverse orient.
+Ivol poly: 1283. Dual to vertex 1646 (8,9,9).  Reverse orient.
+Ivol poly: 1284. Dual to vertex 1647 (9,9,9).  Reverse orient.
+Ivol poly: 1285. Dual to vertex 1648 (10,9,9).  Reverse orient.
+Ivol poly: 1286. Dual to vertex 1652 (1,10,9).  Reverse orient.
+Ivol poly: 1287. Dual to vertex 1653 (2,10,9).  Reverse orient.
+Ivol poly: 1288. Dual to vertex 1654 (3,10,9).  Reverse orient.
+Ivol poly: 1289. Dual to vertex 1655 (4,10,9).  Reverse orient.
+Ivol poly: 1290. Dual to vertex 1656 (5,10,9).  Reverse orient.
+Ivol poly: 1291. Dual to vertex 1657 (6,10,9).  Reverse orient.
+Ivol poly: 1292. Dual to vertex 1658 (7,10,9).  Reverse orient.
+Ivol poly: 1293. Dual to vertex 1659 (8,10,9).  Reverse orient.
+Ivol poly: 1294. Dual to vertex 1660 (9,10,9).  Reverse orient.
+Ivol poly: 1295. Dual to vertex 1661 (10,10,9).  Reverse orient.
+Ivol poly: 1296. Dual to vertex 1662 (11,10,9).  Reverse orient.
+Ivol poly: 1297. Dual to vertex 1666 (2,11,9).  Reverse orient.
+Ivol poly: 1298. Dual to vertex 1667 (3,11,9).  Reverse orient.
+Ivol poly: 1299. Dual to vertex 1668 (4,11,9).  Reverse orient.
+Ivol poly: 1300. Dual to vertex 1674 (10,11,9).  Reverse orient.
+Ivol poly: 1301. Dual to vertex 1675 (11,11,9).  Reverse orient.
+Ivol poly: 1302. Dual to vertex 1705 (2,1,10).  Reverse orient.
+Ivol poly: 1303. Dual to vertex 1706 (3,1,10).  Reverse orient.
+Ivol poly: 1304. Dual to vertex 1707 (4,1,10).  Reverse orient.
+Ivol poly: 1305. Dual to vertex 1708 (5,1,10).  Reverse orient.
+Ivol poly: 1306. Dual to vertex 1709 (6,1,10).  Reverse orient.
+Ivol poly: 1307. Dual to vertex 1711 (8,1,10).  Reverse orient.
+Ivol poly: 1308. Dual to vertex 1712 (9,1,10).  Reverse orient.
+Ivol poly: 1309. Dual to vertex 1713 (10,1,10).  Reverse orient.
+Ivol poly: 1310. Dual to vertex 1717 (1,2,10).  Reverse orient.
+Ivol poly: 1311. Dual to vertex 1718 (2,2,10).  Reverse orient.
+Ivol poly: 1312. Dual to vertex 1719 (3,2,10).  Reverse orient.
+Ivol poly: 1313. Dual to vertex 1720 (4,2,10).  Reverse orient.
+Ivol poly: 1314. Dual to vertex 1721 (5,2,10).  Reverse orient.
+Ivol poly: 1315. Dual to vertex 1722 (6,2,10).  Reverse orient.
+Ivol poly: 1316. Dual to vertex 1723 (7,2,10).  Reverse orient.
+Ivol poly: 1317. Dual to vertex 1724 (8,2,10).  Reverse orient.
+Ivol poly: 1318. Dual to vertex 1725 (9,2,10).  Reverse orient.
+Ivol poly: 1319. Dual to vertex 1733 (4,3,10).  Reverse orient.
+Ivol poly: 1320. Dual to vertex 1734 (5,3,10).  Reverse orient.
+Ivol poly: 1321. Dual to vertex 1735 (6,3,10).  Reverse orient.
+Ivol poly: 1322. Dual to vertex 1737 (8,3,10).  Reverse orient.
+Ivol poly: 1323. Dual to vertex 1738 (9,3,10).  Reverse orient.
+Ivol poly: 1324. Dual to vertex 1743 (1,4,10).  Reverse orient.
+Ivol poly: 1325. Dual to vertex 1744 (2,4,10).  Reverse orient.
+Ivol poly: 1326. Dual to vertex 1745 (3,4,10).  Reverse orient.
+Ivol poly: 1327. Dual to vertex 1746 (4,4,10).  Reverse orient.
+Ivol poly: 1328. Dual to vertex 1747 (5,4,10).  Reverse orient.
+Ivol poly: 1329. Dual to vertex 1748 (6,4,10).  Reverse orient.
+Ivol poly: 1330. Dual to vertex 1749 (7,4,10).  Reverse orient.
+Ivol poly: 1331. Dual to vertex 1750 (8,4,10).  Reverse orient.
+Ivol poly: 1332. Dual to vertex 1751 (9,4,10).  Reverse orient.
+Ivol poly: 1333. Dual to vertex 1752 (10,4,10).  Reverse orient.
+Ivol poly: 1334. Dual to vertex 1753 (11,4,10).  Reverse orient.
+Ivol poly: 1335. Dual to vertex 1757 (2,5,10).  Reverse orient.
+Ivol poly: 1336. Dual to vertex 1758 (3,5,10).  Reverse orient.
+Ivol poly: 1337. Dual to vertex 1759 (4,5,10).  Reverse orient.
+Ivol poly: 1338. Dual to vertex 1761 (6,5,10).  Reverse orient.
+Ivol poly: 1339. Dual to vertex 1762 (7,5,10).  Reverse orient.
+Ivol poly: 1340. Dual to vertex 1763 (8,5,10).  Reverse orient.
+Ivol poly: 1341. Dual to vertex 1764 (9,5,10).  Reverse orient.
+Ivol poly: 1342. Dual to vertex 1765 (10,5,10).  Reverse orient.
+Ivol poly: 1343. Dual to vertex 1769 (1,6,10).  Reverse orient.
+Ivol poly: 1344. Dual to vertex 1770 (2,6,10).  Reverse orient.
+Ivol poly: 1345. Dual to vertex 1771 (3,6,10).  Reverse orient.
+Ivol poly: 1346. Dual to vertex 1772 (4,6,10).  Reverse orient.
+Ivol poly: 1347. Dual to vertex 1773 (5,6,10).  Reverse orient.
+Ivol poly: 1348. Dual to vertex 1774 (6,6,10).  Reverse orient.
+Ivol poly: 1349. Dual to vertex 1775 (7,6,10).  Reverse orient.
+Ivol poly: 1350. Dual to vertex 1776 (8,6,10).  Reverse orient.
+Ivol poly: 1351. Dual to vertex 1777 (9,6,10).  Reverse orient.
+Ivol poly: 1352. Dual to vertex 1778 (10,6,10).  Reverse orient.
+Ivol poly: 1353. Dual to vertex 1782 (1,7,10).  Reverse orient.
+Ivol poly: 1354. Dual to vertex 1783 (2,7,10).  Reverse orient.
+Ivol poly: 1355. Dual to vertex 1785 (4,7,10).  Reverse orient.
+Ivol poly: 1356. Dual to vertex 1786 (5,7,10).  Reverse orient.
+Ivol poly: 1357. Dual to vertex 1787 (6,7,10).  Reverse orient.
+Ivol poly: 1358. Dual to vertex 1788 (7,7,10).  Reverse orient.
+Ivol poly: 1359. Dual to vertex 1789 (8,7,10).  Reverse orient.
+Ivol poly: 1360. Dual to vertex 1790 (9,7,10).  Reverse orient.
+Ivol poly: 1361. Dual to vertex 1791 (10,7,10).  Reverse orient.
+Ivol poly: 1362. Dual to vertex 1792 (11,7,10).  Reverse orient.
+Ivol poly: 1363. Dual to vertex 1795 (1,8,10).  Reverse orient.
+Ivol poly: 1364. Dual to vertex 1796 (2,8,10).  Reverse orient.
+Ivol poly: 1365. Dual to vertex 1797 (3,8,10).  Reverse orient.
+Ivol poly: 1366. Dual to vertex 1798 (4,8,10).  Reverse orient.
+Ivol poly: 1367. Dual to vertex 1801 (7,8,10).  Reverse orient.
+Ivol poly: 1368. Dual to vertex 1802 (8,8,10).  Reverse orient.
+Ivol poly: 1369. Dual to vertex 1803 (9,8,10).  Reverse orient.
+Ivol poly: 1370. Dual to vertex 1804 (10,8,10).  Reverse orient.
+Ivol poly: 1371. Dual to vertex 1805 (11,8,10).  Reverse orient.
+Ivol poly: 1372. Dual to vertex 1808 (1,9,10).  Reverse orient.
+Ivol poly: 1373. Dual to vertex 1809 (2,9,10).  Reverse orient.
+Ivol poly: 1374. Dual to vertex 1810 (3,9,10).  Reverse orient.
+Ivol poly: 1375. Dual to vertex 1811 (4,9,10).  Reverse orient.
+Ivol poly: 1376. Dual to vertex 1814 (7,9,10).  Reverse orient.
+Ivol poly: 1377. Dual to vertex 1815 (8,9,10).  Reverse orient.
+Ivol poly: 1378. Dual to vertex 1816 (9,9,10).  Reverse orient.
+Ivol poly: 1379. Dual to vertex 1817 (10,9,10).  Reverse orient.
+Ivol poly: 1380. Dual to vertex 1818 (11,9,10).  Reverse orient.
+Ivol poly: 1381. Dual to vertex 1821 (1,10,10).  Reverse orient.
+Ivol poly: 1382. Dual to vertex 1822 (2,10,10).  Reverse orient.
+Ivol poly: 1383. Dual to vertex 1823 (3,10,10).  Reverse orient.
+Ivol poly: 1384. Dual to vertex 1824 (4,10,10).  Reverse orient.
+Ivol poly: 1385. Dual to vertex 1825 (5,10,10).  Reverse orient.
+Ivol poly: 1386. Dual to vertex 1826 (6,10,10).  Reverse orient.
+Ivol poly: 1387. Dual to vertex 1827 (7,10,10).  Reverse orient.
+Ivol poly: 1388. Dual to vertex 1828 (8,10,10).  Reverse orient.
+Ivol poly: 1389. Dual to vertex 1829 (9,10,10).  Reverse orient.
+Ivol poly: 1390. Dual to vertex 1830 (10,10,10).  Reverse orient.
+Ivol poly: 1391. Dual to vertex 1831 (11,10,10).  Reverse orient.
+Ivol poly: 1392. Dual to vertex 1834 (1,11,10).  Reverse orient.
+Ivol poly: 1393. Dual to vertex 1835 (2,11,10).  Reverse orient.
+Ivol poly: 1394. Dual to vertex 1836 (3,11,10).  Reverse orient.
+Ivol poly: 1395. Dual to vertex 1837 (4,11,10).  Reverse orient.
+Ivol poly: 1396. Dual to vertex 1838 (5,11,10).  Reverse orient.
+Ivol poly: 1397. Dual to vertex 1842 (9,11,10).  Reverse orient.
+Ivol poly: 1398. Dual to vertex 1843 (10,11,10).  Reverse orient.
+Ivol poly: 1399. Dual to vertex 1844 (11,11,10).  Reverse orient.
+Ivol poly: 1400. Dual to vertex 1878 (6,1,11).  Reverse orient.
+Ivol poly: 1401. Dual to vertex 1880 (8,1,11).  Reverse orient.
+Ivol poly: 1402. Dual to vertex 1881 (9,1,11).  Reverse orient.
+Ivol poly: 1403. Dual to vertex 1882 (10,1,11).  Reverse orient.
+Ivol poly: 1404. Dual to vertex 1886 (1,2,11).  Reverse orient.
+Ivol poly: 1405. Dual to vertex 1887 (2,2,11).  Reverse orient.
+Ivol poly: 1406. Dual to vertex 1888 (3,2,11).  Reverse orient.
+Ivol poly: 1407. Dual to vertex 1889 (4,2,11).  Reverse orient.
+Ivol poly: 1408. Dual to vertex 1891 (6,2,11).  Reverse orient.
+Ivol poly: 1409. Dual to vertex 1892 (7,2,11).  Reverse orient.
+Ivol poly: 1410. Dual to vertex 1893 (8,2,11).  Reverse orient.
+Ivol poly: 1411. Dual to vertex 1894 (9,2,11).  Reverse orient.
+Ivol poly: 1412. Dual to vertex 1902 (4,3,11).  Reverse orient.
+Ivol poly: 1413. Dual to vertex 1906 (8,3,11).  Reverse orient.
+Ivol poly: 1414. Dual to vertex 1912 (1,4,11).  Reverse orient.
+Ivol poly: 1415. Dual to vertex 1913 (2,4,11).  Reverse orient.
+Ivol poly: 1416. Dual to vertex 1914 (3,4,11).  Reverse orient.
+Ivol poly: 1417. Dual to vertex 1915 (4,4,11).  Reverse orient.
+Ivol poly: 1418. Dual to vertex 1917 (6,4,11).  Reverse orient.
+Ivol poly: 1419. Dual to vertex 1918 (7,4,11).  Reverse orient.
+Ivol poly: 1420. Dual to vertex 1919 (8,4,11).  Reverse orient.
+Ivol poly: 1421. Dual to vertex 1920 (9,4,11).  Reverse orient.
+Ivol poly: 1422. Dual to vertex 1921 (10,4,11).  Reverse orient.
+Ivol poly: 1423. Dual to vertex 1922 (11,4,11).  Reverse orient.
+Ivol poly: 1424. Dual to vertex 1926 (2,5,11).  Reverse orient.
+Ivol poly: 1425. Dual to vertex 1927 (3,5,11).  Reverse orient.
+Ivol poly: 1426. Dual to vertex 1928 (4,5,11).  Reverse orient.
+Ivol poly: 1427. Dual to vertex 1930 (6,5,11).  Reverse orient.
+Ivol poly: 1428. Dual to vertex 1932 (8,5,11).  Reverse orient.
+Ivol poly: 1429. Dual to vertex 1933 (9,5,11).  Reverse orient.
+Ivol poly: 1430. Dual to vertex 1934 (10,5,11).  Reverse orient.
+Ivol poly: 1431. Dual to vertex 1938 (1,6,11).  Reverse orient.
+Ivol poly: 1432. Dual to vertex 1939 (2,6,11).  Reverse orient.
+Ivol poly: 1433. Dual to vertex 1940 (3,6,11).  Reverse orient.
+Ivol poly: 1434. Dual to vertex 1941 (4,6,11).  Reverse orient.
+Ivol poly: 1435. Dual to vertex 1942 (5,6,11).  Reverse orient.
+Ivol poly: 1436. Dual to vertex 1943 (6,6,11).  Reverse orient.
+Ivol poly: 1437. Dual to vertex 1944 (7,6,11).  Reverse orient.
+Ivol poly: 1438. Dual to vertex 1945 (8,6,11).  Reverse orient.
+Ivol poly: 1439. Dual to vertex 1946 (9,6,11).  Reverse orient.
+Ivol poly: 1440. Dual to vertex 1951 (1,7,11).  Reverse orient.
+Ivol poly: 1441. Dual to vertex 1952 (2,7,11).  Reverse orient.
+Ivol poly: 1442. Dual to vertex 1954 (4,7,11).  Reverse orient.
+Ivol poly: 1443. Dual to vertex 1956 (6,7,11).  Reverse orient.
+Ivol poly: 1444. Dual to vertex 1957 (7,7,11).  Reverse orient.
+Ivol poly: 1445. Dual to vertex 1958 (8,7,11).  Reverse orient.
+Ivol poly: 1446. Dual to vertex 1964 (1,8,11).  Reverse orient.
+Ivol poly: 1447. Dual to vertex 1965 (2,8,11).  Reverse orient.
+Ivol poly: 1448. Dual to vertex 1967 (4,8,11).  Reverse orient.
+Ivol poly: 1449. Dual to vertex 1969 (6,8,11).  Reverse orient.
+Ivol poly: 1450. Dual to vertex 1970 (7,8,11).  Reverse orient.
+Ivol poly: 1451. Dual to vertex 1971 (8,8,11).  Reverse orient.
+Ivol poly: 1452. Dual to vertex 1972 (9,8,11).  Reverse orient.
+Ivol poly: 1453. Dual to vertex 1973 (10,8,11).  Reverse orient.
+Ivol poly: 1454. Dual to vertex 1974 (11,8,11).  Reverse orient.
+Ivol poly: 1455. Dual to vertex 1977 (1,9,11).  Reverse orient.
+Ivol poly: 1456. Dual to vertex 1978 (2,9,11).  Reverse orient.
+Ivol poly: 1457. Dual to vertex 1980 (4,9,11).  Reverse orient.
+Ivol poly: 1458. Dual to vertex 1982 (6,9,11).  Reverse orient.
+Ivol poly: 1459. Dual to vertex 1983 (7,9,11).  Reverse orient.
+Ivol poly: 1460. Dual to vertex 1984 (8,9,11).  Reverse orient.
+Ivol poly: 1461. Dual to vertex 1985 (9,9,11).  Reverse orient.
+Ivol poly: 1462. Dual to vertex 1986 (10,9,11).  Reverse orient.
+Ivol poly: 1463. Dual to vertex 1987 (11,9,11).  Reverse orient.
+Ivol poly: 1464. Dual to vertex 1990 (1,10,11).  Reverse orient.
+Ivol poly: 1465. Dual to vertex 1991 (2,10,11).  Reverse orient.
+Ivol poly: 1466. Dual to vertex 1992 (3,10,11).  Reverse orient.
+Ivol poly: 1467. Dual to vertex 1993 (4,10,11).  Reverse orient.
+Ivol poly: 1468. Dual to vertex 1994 (5,10,11).  Reverse orient.
+Ivol poly: 1469. Dual to vertex 1995 (6,10,11).  Reverse orient.
+Ivol poly: 1470. Dual to vertex 1996 (7,10,11).  Reverse orient.
+Ivol poly: 1471. Dual to vertex 1997 (8,10,11).  Reverse orient.
+Ivol poly: 1472. Dual to vertex 1998 (9,10,11).  Reverse orient.
+Ivol poly: 1473. Dual to vertex 1999 (10,10,11).  Reverse orient.
+Ivol poly: 1474. Dual to vertex 2000 (11,10,11).  Reverse orient.
+Ivol poly: 1475. Dual to vertex 2004 (2,11,11).  Reverse orient.
+Ivol poly: 1476. Dual to vertex 2005 (3,11,11).  Reverse orient.
+Ivol poly: 1477. Dual to vertex 2006 (4,11,11).  Reverse orient.
+Ivol poly: 1478. Dual to vertex 2007 (5,11,11).  Reverse orient.
+Ivol poly: 1479. Dual to vertex 2008 (6,11,11).  Reverse orient.
+Ivol poly: 1480. Dual to vertex 2010 (8,11,11).  Reverse orient.
+Ivol poly: 1481. Dual to vertex 2011 (9,11,11).  Reverse orient.
+Ivol poly: 1482. Dual to vertex 2012 (10,11,11).  Reverse orient.
